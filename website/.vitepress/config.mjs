@@ -11,7 +11,7 @@ export default defineConfig({
     outline: 'deep',
     nav: [
       { text: '首页', link: '/' },
-      { text: '开始阅读', link: '/front-matter/notes' },
+      { text: '开始阅读', link: '/front-matter/01-notes' },
       { text: 'GitHub', link: 'https://github.com/bugcodes/book-of-elon-zh' }
     ],
     sidebar: {
@@ -19,9 +19,9 @@ export default defineConfig({
         {
           text: '前言',
           items: [
-            { text: '关于本书', link: '/front-matter/notes' },
-            { text: 'Naval 序言', link: '/front-matter/foreword' },
-            { text: 'Eric 欢迎词', link: '/front-matter/welcome' }
+            { text: '关于本书', link: '/front-matter/01-notes' },
+            { text: 'Naval 序言', link: '/front-matter/02-foreword' },
+            { text: 'Eric 欢迎词', link: '/front-matter/03-welcome' }
           ]
         }
       ],
@@ -29,9 +29,9 @@ export default defineConfig({
         {
           text: '前言',
           items: [
-            { text: '关于本书', link: '/front-matter/notes' },
-            { text: 'Naval 序言', link: '/front-matter/foreword' },
-            { text: 'Eric 欢迎词', link: '/front-matter/welcome' }
+            { text: '关于本书', link: '/front-matter/01-notes' },
+            { text: 'Naval 序言', link: '/front-matter/02-foreword' },
+            { text: 'Eric 欢迎词', link: '/front-matter/03-welcome' }
           ]
         },
         {
@@ -63,15 +63,6 @@ export default defineConfig({
           text: '附录',
           items: [
             { text: '69 条核心方法', link: '/chapters/06-bonus-methods' }
-          ]
-        }
-      ],
-      '/bonus/': [
-        {
-          text: '附录',
-          items: [
-            { text: '69 条核心方法', link: '/bonus/methods' },
-            { text: '时间线', link: '/bonus/timeline' }
           ]
         }
       ]
