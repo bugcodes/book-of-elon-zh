@@ -61,12 +61,16 @@ features:
 
 **AI Tools Hub** - 发现最新 AI 工具，提升工作效率
 
-![AI Tools Hub](https://tsz-bj.oss-cn-beijing.aliyuncs.com/moltbook/qrcode.jpg)
+<div style="text-align: center; margin: 30px 0;">
+  <img src="https://tsz-bj.oss-cn-beijing.aliyuncs.com/moltbook/qrcode.jpg" alt="AI Tools Hub 公众号二维码" style="max-width: 300px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
 
 **获取：**
 - 🚀 最新 AI 工具推荐
 - 💡 实用技巧与教程
 - 📚 优质资源分享
 - 🎁 独家优惠福利
+
+**立即扫码关注，开启 AI 效率之旅！**
 
 ---
