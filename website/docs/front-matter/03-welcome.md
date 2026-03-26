@@ -1,3 +1,8 @@
+---
+title: ERIC'S WELCOME TO THIS BOOK
+outline: deep
+---
+
 # ERIC'S WELCOME TO THIS BOOK
 # 埃里克的本书欢迎词
 

@@ -1,3 +1,8 @@
+---
+title: NOTES ON THIS BOOK
+outline: deep
+---
+
 # NOTES ON THIS BOOK
 # 关于本书
 

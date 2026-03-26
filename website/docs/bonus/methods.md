@@ -1,3 +1,8 @@
+---
+title: BONUS: THE 69 CORE MUSK METHODS (continued)
+outline: deep
+---
+
 # BONUS: THE 69 CORE MUSK METHODS (continued)
 # 附录：69 个核心马斯克方法（续）
 
