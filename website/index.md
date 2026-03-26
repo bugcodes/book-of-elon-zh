@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /front-matter/notes
+      link: /front-matter/01-notes
     - theme: alt
       text: GitHub 仓库
       link: https://github.com/bugcodes/book-of-elon-zh
