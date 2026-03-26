@@ -1,49 +1,40 @@
-# The Book of Elon 中文版
+# 🚀 The Book of Elon 中文版
 
-## 书名
-**The Book of Elon: A Guide to Purpose and Success**
-**埃隆之书：目标与成功指南**
+Elon Musk 最有用的想法，用他自己的话。
 
-## 作者
-Eric Jorgenson
+## 📖 在线阅读
 
-## 序言
-Naval Ravikant
+**https://bugcodes.github.io/book-of-elon-zh/**
 
-## 项目说明
-- 翻译风格：直译优先，中英对照
-- 格式：Markdown
-- 状态：翻译中
+## 📊 项目统计
 
-## 目录结构
-```
-book-of-elon-zh/
-├── README.md
-├── front-matter/          # 前言部分
-│   ├── notes.md           # 本书说明
-│   ├── foreword.md        # 序言
-│   └── welcome.md         # 作者欢迎词
-├── chapters/              # 正文章节
-│   ├── part-01-purpose.md # PART I: 追求目标
-│   ├── part-02-work.md    # PART II: 极限硬核工作
-│   ├── part-03-companies.md # PART III: 创建公司
-│   └── part-04-humanity.md # PART IV: 为了人类
-└── back-matter/           # 附录部分
-    ├── methods.md         # 69 个核心方法
-    ├── timeline.md        # 时间线
-    └── reading.md         # 推荐书单
-```
+| 项目 | 数据 |
+|------|------|
+| 总行数 | ~6,500+ 行 |
+| 文件数 | 9 个翻译文件 |
+| 翻译风格 | 直译优先，中英对照 |
+| 完成时间 | 2026-03-26 |
 
-## 翻译进度
-- [ ] 前言部分
-- [ ] PART I: PURSUE PURPOSE
-- [ ] PART II: ULTRA HARDCORE WORK
-- [ ] PART III: BUILDING COMPANIES
-- [ ] PART IV: ON BEHALF OF HUMANITY
-- [ ] 附录部分
+## 📚 内容结构
 
-## License
-待确认
+- **前言** - 关于本书、Naval Ravikant 序言、Eric 欢迎词
+- **PART I** - 追求目标（生活目标、第一性原理、工程价值）
+- **PART II** - 极限硬核工作（责任、团队、组织、紧迫感）
+- **PART III** - 创建公司（Tesla + SpaceX 完整故事）
+- **PART IV** - 为了人类（可持续能源、AI、多行星文明）
+- **附录** - 69 条核心方法、时间线
+
+## 🌐 网站部署
+
+网站使用 VitePress 构建，已配置 GitHub Actions 自动部署。
+
+访问：**https://bugcodes.github.io/book-of-elon-zh/**
+
+## 📄 许可证
+
+- 原著：Eric Jorgenson - 《The Book of Elon》
+- 翻译：CC BY-NC-SA 4.0
 
 ---
-翻译项目启动时间：2026-03-26
+
+**Built with ❤️ using VitePress**
