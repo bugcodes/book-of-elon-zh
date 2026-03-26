@@ -373,3 +373,560 @@
 > **中文：** 我们可以通过建造人形机器人来大幅增加劳动力。
 
 ---
+
+> **English:** If you remove labor as the limiting factor for the economy, it's not clear that an economy in the traditional sense has any meaning anymore because you have no constraint on goods and services. There will be no shortage of goods and services.
+>
+> **中文：** 如果你移除劳动力作为经济的限制因素，传统意义上的经济是否还有任何意义就不清楚了，因为你对商品和服务没有限制。将不会有商品和服务的短缺。
+
+---
+
+> **English:** The first units we intend to make are for jobs that are dangerous, boring, repetitive things that people don't want to do.
+>
+> **中文：** 我们打算制造的第一批单元是用于危险、无聊、重复性的工作，人们不想做这些事情。
+
+---
+
+> **English:** In the future, the only forms of scarcity will be artificial scarcity (where we decide to make it scarce, like a particular piece of art) or unique items like a particular home in an exact location.
+>
+> **中文：** 在未来，唯一形式的稀缺将是人为稀缺（我们决定让它稀缺，比如一件特定的艺术品）或独特物品，比如特定位置的特定房屋。
+
+---
+
+> **English:** Don't worry about robots putting people out of jobs. We already have a massive shortage of labor. We will still have a shortage of labor even in the future. Robotics will create a world of abundance—goods and services will be available to anyone who wants them, so cheap it'll be ridiculous.
+>
+> **中文：** 不要担心机器人让人们失业。我们已经有了巨大的劳动力短缺。即使在未来，我们仍将面临劳动力短缺。机器人技术将创造一个丰盛的世界——商品和服务将提供给任何想要它们的人，便宜得荒谬。
+
+---
+
+> **English:** Our goal at Tesla is to make a useful humanoid robot as quickly as possible. Eventually, there will be millions of them. This means a future of abundance, a future where there is no poverty. We can afford to have a universal basic income for people. It really is a fundamental transformation of civilization.
+>
+> **中文：** 我们在特斯拉的目标是尽快制造一个有用的人形机器人。最终，将有数百万个。这意味着一个丰盛的未来，一个没有贫困的未来。我们可以为人们提供普遍基本收入。这确实是文明的根本转变。
+
+---
+
+> **English:** People have no idea; the market for humanoid robots will be bigger than that of cars.
+>
+> **中文：** 人们不知道；人形机器人市场将比汽车市场更大。
+
+---
+
+> **English:** There will be humanoid robots throughout factories. Cars will also be entirely automatic. Anywhere intelligence can be applied will be automated. That's maybe 2033–2043.
+>
+> **中文：** 工厂里将有人形机器人。汽车也将完全自动化。任何可以应用智能的地方都将自动化。那可能是 2033-2043 年。
+
+---
+
+> **English:** As we go further into the future, things are gonna change a lot. Everything will be automatic. There will be household robots that you can talk to as if they are people. It will help you, be a companion, or whatever the case may be. It will be able to pick up your kids from school or stay with them at school if you want. It will be able to teach kids anything and support any language.
+>
+> **中文：** 随着我们进一步走向未来，事情将发生很大变化。一切都将是自动的。将有家用机器人，你可以像和人一样与它们交谈。它将帮助你，成为伴侣，或任何其他情况。它将能够从学校接你的孩子，或者如果你愿意，可以在学校陪伴他们。它将能够教孩子任何事情并支持任何语言。
+
+---
+
+> **English:** Long term, I think the ratio of humanoid robots will be more than one-to-one. There might be two humanoid robots per person or more, maybe ten for every one. Well in excess of ten billion humanoid robots. At volume production, a humanoid robot will cost less than a car.
+>
+> **中文：** 长期来看，我认为人形机器人的比例将超过一比一。可能每个人有两个或更多的人形机器人，也许每一个人十个。远超过一百亿个人形机器人。在批量生产时，人形机器人的成本将低于汽车。
+
+---
+
+### Exponential Intelligence
+### 指数智能
+
+---
+
+> **English:** Computing power is going to be crazy. The big change is the cost of computing power, not so much the circuit density (known as Moore's Law). If you look at dollars per instruction, cost is dropping exponentially.
+>
+> **中文：** 计算能力将变得疯狂。最大的变化是计算能力的成本，而不是电路密度（称为摩尔定律）。如果你看每条指令的美元成本，成本正在呈指数下降。
+
+---
+
+> **English:** We'll see massively parallel computers, computing power, and storage become extremely available. There will be ubiquitous computing everywhere.
+>
+> **中文：** 我们将看到大规模并行计算机、计算能力和存储变得极其可用。到处都将有无处不在的计算。
+
+---
+
+> **English:** I expect AI to be incredibly sophisticated by the 2040s. Predicting trends in an exponential curve is tricky, because up close it often looks linear. But actually, it's not linear. The pace of AI development itself appears to be accelerating.
+>
+> **中文：** 我预计到 2040 年代，AI 将变得极其复杂。预测指数曲线中的趋势是棘手的，因为近距离看它通常看起来是线性的。但实际上，它不是线性的。AI 发展本身的速度似乎在加快。
+
+---
+
+> **English:** The ratio of total digital compute to total biological compute is the key metric to watch. This is perhaps the most fundamental ratio defining technological progress. It is rising incredibly fast.
+>
+> **中文：** 总数字计算与总生物计算的比例是要关注的关键指标。这可能是定义技术进步的最基本比例。它正在以惊人的速度上升。
+
+---
+
+> **English:** We're building progressively greater intelligences, and the percentage of nonhuman intelligence is increasing. Eventually we humans will represent a small percentage of total intelligence. It might feel like we're the biological bootloader for AI.
+>
+> **中文：** 我们正在逐步建造更大的智能，非人类智能的百分比正在增加。最终，我们人类将只占总智能的一小部分。感觉可能像是我们是 AI 的生物引导程序。
+
+---
+
+> **English:** We're fairly close to artificial general intelligence, perhaps only a few years away. It's possible we are on the event horizon of the black hole that is artificial superintelligence. Over a twenty- to thirty-year time frame, things could be transformed beyond belief. We probably won't recognize society in thirty years.
+>
+> **中文：** 我们相当接近人工通用智能，也许只有几年之遥。我们可能正处于人工超级智能黑洞的事件视界上。在二十到三十年的时间框架内，事情可能会变得难以置信地转变。三十年后我们可能认不出社会了。
+
+---
+
+### Upgrading the Human Mind
+### 升级人类思维
+
+---
+
+> **English:** The internet is a great leveler for information and education. You can learn anything online for free.
+>
+> **中文：** 互联网是信息和教育的伟大平衡器。你可以免费在线学习任何东西。
+
+---
+
+> **English:** A thousand years ago there were very few books. Even if you had a thirst for knowledge you couldn't do much about it, because books were incredibly expensive and rare, and only a few people knew how to read. Books were difficult to get until the Gutenberg Press. Technology is what causes these big step-changes in civilization.
+>
+> **中文：** 一千年前书籍非常少。即使你有求知欲，你也无能为力，因为书籍非常昂贵和稀有，只有少数人知道如何阅读。在古腾堡印刷机之前，书籍很难获得。技术是导致文明中这些巨大阶梯式变化的原因。
+
+---
+
+> **English:** Even if you could read and were in the Library of Congress, you still didn't have access to all the world's information, and you certainly couldn't search it. And, of course, very few people could be in the Library of Congress at once.
+>
+> **中文：** 即使你能阅读并在国会图书馆，你仍然无法访问世界上所有的信息，你当然也无法搜索它。当然，很少有人能同时在国会图书馆。
+
+---
+
+> **English:** The internet is something beyond the Gutenberg press. When the general public started using the internet, it felt like humanity was developing a nervous system. Any part of humanity got access to almost all human knowledge. You could be deep in the Amazon jungle with a Starlink terminal and have access to more information than the US president did in 1980.
+>
+> **中文：** 互联网是超越古腾堡印刷机的东西。当公众开始使用互联网时，感觉就像人类正在发展神经系统。人类的任何部分都可以访问几乎所有人类知识。你可以带着星链终端深入亚马逊丛林，获得比 1980 年美国总统更多的信息。
+
+---
+
+> **English:** To transfer data before the digital age, you had to write a letter. Someone would have to carry the letter to another person with a bunch of physical work in between. That's insanely slow when you think about it. Now, you can access any book instantly; you can learn anything. It's incredible.
+>
+> **中文：** 在数字时代之前传输数据，你必须写信。有人必须把信带给另一个人，中间有一堆体力劳动。当你想到这一点时，那是疯狂慢的。现在，你可以立即访问任何书籍；你可以学习任何东西。这令人难以置信。
+
+---
+
+> **English:** Any student of history would agree: The internet has been the biggest equalizer in history for access to information and knowledge.
+>
+> **中文：** 任何历史学生都会同意：互联网一直是历史上获取信息和知识的最大平衡器。
+
+---
+
+> **English:** We already have a digital layer to our minds, in a sense, with our computer or our phone. You can access any book or song. You can ask a question on Google and get an answer instantly. With your laptop, you can outcompute an Empire State Building filled with people and calculators. These are incredible superpowers, which even the president of the United States didn't have back in the year 2000.
+>
+> **中文：** 在某种意义上，我们已经通过电脑或手机为我们的思维添加了数字层。你可以访问任何书籍或歌曲。你可以在谷歌上提问并立即得到答案。用你的笔记本电脑，你可以超越装满人和计算器的帝国大厦。这些都是令人难以置信的超能力，即使是美国总统在 2000 年也没有。
+
+---
+
+> **English:** People don't appreciate this yet—they are already a cyborg. You're a different creature than you would have been twenty years ago, or even ten years ago.
+>
+> **中文：** 人们还没有意识到这一点——他们已经是半机械人了。你与二十年前，甚至十年前的你是不同的生物。
+
+---
+
+> **English:** They do surveys asking, "How long can you be away from your phone?" Particularly for younger people, even a day is painful. If you leave your phone behind, it's like missing a limb. People have already merged with their phones.
+>
+> **中文：** 他们进行调查问，"你能离开手机多久？"特别是对年轻人来说，即使一天也是痛苦的。如果你把手机落在后面，就像失去肢体一样。人们已经与手机融合了。
+
+---
+
+> **English:** You're already digitally superhuman.
+>
+> **中文：** 你已经在数字上超人了。
+
+---
+
+> **English:** Q: Will the brain–computer interface change humans and how we use computers?
+>
+> **中文：** 问：脑机接口会改变人类和我们使用电脑的方式吗？
+
+---
+
+> **English:** Yes, an intertwined idea is having a higher-bandwidth interface between computers and the brain. We're currently bandwidth limited. The connection is bottlenecked in this tiny straw of an interface, poking glass with your meat sticks.
+>
+> **中文：** 是的，一个交织的想法是在计算机和大脑之间拥有更高带宽的接口。我们目前受带宽限制。连接在这个微小的接口 straw 中受到瓶颈限制，用你的肉棒戳玻璃。
+
+---
+
+> **English:** Ten-finger typing on a keyboard used to be the most common input to a computer. Now, it's usually two-thumb typing. Our output quality has gone backward.
+>
+> **中文：** 在键盘上十指打字曾经是计算机最常见的输入。现在，通常是两个拇指打字。我们的输出质量倒退了。
+
+---
+
+> **English:** The sustained output of a human over the course of a day is less than one bit per second. There are 86,400 seconds in a day. It is extremely rare for a human to output more than that number of symbols per day, certainly for several days in a row. We should be able to improve that by many orders of magnitude with a direct neural interface—a high-bandwidth interface to your digital enhancements.
+>
+> **中文：** 人类一天中的持续输出少于每秒一位。一天有 86,400 秒。人类每天输出超过该数量的符号是极其罕见的，当然连续几天更是如此。我们应该能够通过直接神经接口——对你的数字增强的高带宽接口——将其提高多个数量级。
+
+---
+
+> **English:** Noland Arbaugh was the very first Neuralink patient. After he got the Neuralink implant, he spent all night playing Civilization, which is awesome. That's exactly what I'd do too. Even with only roughly 10 to 15 percent of the electrodes working, we were able to achieve a bit per second. That was twice the previous world record. Maybe five years from now, we might be at a megabit—faster than any human could possibly communicate by typing or speaking.
+>
+> **中文：** 诺兰·阿博是第一位 Neuralink 患者。在他获得 Neuralink 植入物后，他整夜玩《文明》，这太棒了。那也是我会做的。即使只有大约 10% 到 15% 的电极工作，我们也能够实现每秒一位。那是之前世界纪录的两倍。也许五年后，我们可能达到一兆比特——比任何人通过打字或说话交流都快。
+
+---
+
+> **English:** The Neuralink interface can massively increase your output bandwidth and your input bandwidth. Input being written operations to the brain, where the brain is reading signals.
+>
+> **中文：** Neuralink 接口可以大幅增加你的输出带宽和输入带宽。输入是写入大脑的操作，大脑在那里读取信号。
+
+---
+
+> **English:** If we achieve tight symbiosis, AI wouldn't be "other"—it would be integrated with you. Imagine it has a relationship to your conscious mind similar to your unconscious mind.
+>
+> **中文：** 如果我们实现紧密共生，AI 就不会是"其他"——它将与你整合。想象它与你的意识思维的关系类似于你的潜意识。
+
+---
+
+> **English:** Your brain has to work to compress a bunch of concepts in your head into this incredibly low data rate format called speech or typing. That's what language is—a compression algorithm on thought, to transfer a concept. Then it's got to listen and decompress what's coming in. Both of these steps are very lossy.
+>
+> **中文：** 你的大脑必须努力将你头脑中的一堆概念压缩成这种极低数据速率的格式，称为说话或打字。这就是语言——对思想的压缩算法，以传输概念。然后它必须倾听并解压进来的内容。这两个步骤都非常有损。
+
+---
+
+> **English:** If you have two direct-brain interfaces, you could do an uncompressed direct conceptual communication with another person. Like consensual telepathy. The conversation would be a conceptual interaction on a level that's difficult to conceive of right now.
+>
+> **中文：** 如果你有两个直接大脑接口，你可以与另一个人进行未压缩的直接概念交流。就像共识心灵感应。对话将是一个目前难以想象的概念层面的互动。
+
+---
+
+> **English:** Conceivably, there's a way to have a digital layer of your brain feel like part of you. It's not something you offload to consciously; it's just "you."
+>
+> **中文：** 可以想象，有一种方式让你大脑的数字层感觉像你的一部分。它不是你有意识地卸载的东西；它只是"你"。
+
+---
+
+> **English:** To start out, we are really just solving basic neurological damage, like for people who have essentially complete or near complete loss from the brain to the body. For someone like Stephen Hawking, the Neuralink would be incredibly profound. Imagine if Stephen Hawking could communicate as fast as we're communicating, perhaps faster. And that's certainly possible. Probable, in fact.
+>
+> **中文：** 开始时，我们真的只是在解决基本的神经损伤，比如那些从大脑到身体基本或几乎完全丧失功能的人。对于像斯蒂芬·霍金这样的人，Neuralink 将是极其深远的。想象一下，如果斯蒂芬·霍金能像我们交流一样快地交流，也许更快。这当然是可能的。事实上，很可能。
+
+---
+
+> **English:** There's obviously some risk with a new device. You can't get the risk down to zero; it's not possible. So, you want to have the highest possible reward, given there's a certain irreducible risk. And if somebody's able to have a profound improvement in their communication, that's worth the risk.
+>
+> **中文：** 新设备显然有一些风险。你不能将风险降到零；这是不可能的。所以，鉴于有一定的不可减少的风险，你想要尽可能高的回报。如果有人能够在交流方面取得深刻改善，那是值得冒险的。
+
+---
+
+> **English:** We can deliver new information to the brain too. If somebody is completely blind, we can write directly to the visual cortex to give them sight. At first it will be relatively fairly low resolution, but long term you would have very high resolution.
+>
+> **中文：** 我们也可以向大脑传递新信息。如果有人完全失明，我们可以直接写入视觉皮层给他们视力。起初分辨率将相对较低，但长期来看你将拥有非常高分辨率。
+
+---
+
+> **English:** This is actually our second product, called Blindsight. It enables people who are completely blind, lost both eyes or optic nerve, or just can't see at all, to be able to see by directly triggering the neurons in the visual cortex.
+>
+> **中文：** 这实际上是我们的第二个产品，称为盲视。它使完全失明、失去双眼或视神经，或根本看不见的人能够通过直接触发视觉皮层中的神经元来看见。
+
+---
+
+> **English:** At some point, the cybernetic implants wouldn't simply be correcting things that went wrong but augmenting human capabilities. You could even see multispectral wavelengths like infrared, ultraviolet, and radar. That's a superpower situation. Augmenting intelligence, senses, and bandwidth dramatically—that's going to happen at some point.
+>
+> **中文：** 在某个时候，控制论植入物将不仅仅是纠正出错的事情，而是增强人类能力。你甚至可以看到多光谱波长，如红外线、紫外线和雷达。那是超能力的情况。大幅增强智能、感官和带宽——那将在某个时候发生。
+
+---
+
+### The Last Human Drivers
+### 最后的人类司机
+
+---
+
+> **English:** It's crazy to let people drive a two-ton death machine manually. They can drive into whatever they want. In the future, it's going to seem like a mad thing that people once drove cars.
+>
+> **中文：** 让人们手动驾驶两吨死亡机器是疯狂的。他们可以开车撞任何他们想要的东西。在未来，人们曾经开车将看起来像疯狂的事情。
+
+---
+
+> **English:** In the early days of Tesla, 2013, a guy fell asleep at the wheel in a Model S, and he ran over a cyclist and killed him. Unfortunately, people fall asleep at the wheel often. If we had already built autopilot, this cyclist would still be alive. I thought, We'd better hurry up and get it working.
+>
+> **中文：** 在特斯拉早期，2013 年，一个家伙在 Model S 中开车时睡着了，他撞倒了一名骑自行车的人并杀死了他。不幸的是，人们经常在开车时睡着。如果我们已经建造了自动驾驶仪，这个骑自行车的人还会活着。我想，我们最好快点让它工作。
+
+---
+
+> **English:** There are clearly two massive revolutions coming to the automobile industry; one is the transition to electrification, and then the other is autonomy. It became obvious to me that in the future, any car that does not have autonomy would be about as useful as a horse. That's not to say it has no use…but it is rare for somebody to have a horse these days. It's obvious cars will drive themselves completely; it's just a question of time.
+>
+> **中文：** 显然汽车行业将迎来两场巨大的革命；一场是向电气化的过渡，另一场是自动驾驶。我清楚地意识到，在未来，任何没有自动驾驶的汽车将像马一样有用。这不是说它没有用处……但现在很少有人养马。很明显汽车将完全自动驾驶；这只是时间问题。
+
+---
+
+> **English:** An autonomous car is arguably worth five to ten times more than a car that is not autonomous.
+>
+> **中文：** 一辆自动驾驶汽车的价值可以说是非自动驾驶汽车的五到十倍。
+
+---
+
+> **English:** The autonomy system is likely to mitigate crashes except in rare circumstances. Vehicle safety is probabilistic. There's some chance any time a human driver gets in a car that they will have an accident that is their fault. The odds are never zero. The key threshold for autonomy is: How much better does autonomy need to be than a person before you can rely on it?
+>
+> **中文：** 自动驾驶系统可能会减少碰撞，除非在罕见情况下。车辆安全是概率性的。任何时候人类司机上车都有可能发生他们过错的事故。几率永远不会是零。自动驾驶的关键阈值是：自动驾驶需要比人类好多少你才能依赖它？
+
+---
+
+> **English:** About a million people die every year in car accidents and about ten million per year have serious injuries. Bringing the day of self-driving sooner translates directly to lives saved and injuries avoided. The sooner, the better. A lot of lives will be saved and made better.
+>
+> **中文：** 每年约有 100 万人死于车祸，每年约有 1000 万人受重伤。让自动驾驶早日到来直接转化为拯救生命和避免伤害。越早越好。很多生命将被拯救和改善。
+
+---
+
+> **English:** Tesla deployed partial autonomy immediately because when used correctly, it was already significantly safer than a person driving by themself. It would be morally reprehensible to delay release simply for fear of bad press or some mercantile calculation of legal liability.
+>
+> **中文：** 特斯拉立即部署了部分自动驾驶，因为当正确使用时，它已经比一个人自己开车安全得多。仅仅因为害怕负面新闻或对法律责任的商业计算而延迟发布在道德上是应受谴责的。
+
+---
+
+> **English:** Autonomous cars could maneuver with a reaction time much faster than a human. Over time, autopilot will be capable of impossible maneuvers that a human could never do.
+>
+> **中文：** 自动驾驶汽车可以以比人类快得多的反应时间机动。随着时间的推移，自动驾驶将能够完成人类永远无法做到的不可能机动。
+
+---
+
+> **English:** I told the team I want the latest data on miles per intervention to be the starting slide at each of our meetings. If we're training AI to drive, what do we optimize? The answer is higher miles between interventions. It is motivating to watch each day as the miles per intervention increases. Video games without a score are boring.
+>
+> **中文：** 我告诉团队，我希望每次会议的开始幻灯片都是每次干预里程的最新数据。如果我们在训练 AI 驾驶，我们优化什么？答案是干预之间更高的里程。看着每天每次干预里程增加是令人鼓舞的。没有分数的电子游戏很无聊。
+
+---
+
+> **English:** We always try to do the right thing. When we make mistakes, it may be because we were being foolish or stupid, but it's always with the right motivations.
+>
+> **中文：** 我们总是努力做正确的事情。当我们犯错时，可能是因为我们愚蠢或笨拙，但总是出于正确的动机。
+
+---
+
+> **English:** When true self-driving is approved by regulators, you will be able to summon your Tesla from pretty much anywhere. Once it picks you up, you will be able to sleep, read, or do anything else en route to your destination.
+>
+> **中文：** 当真正的自动驾驶获得监管机构批准时，你将能够从几乎任何地方召唤你的特斯拉。一旦它接上你，你将能够在前往目的地的途中睡觉、阅读或做任何其他事情。
+
+---
+
+> **English:** Mega-long-term, I think of cars as being effectively carriers for the autonomy software. It's the vehicle, literally and figuratively for autonomy. It's the software that rides on the car.
+>
+> **中文：** 超长期来看，我认为汽车实际上是自动驾驶软件的载体。它是自动驾驶的载体，字面上和比喻上都是。它是搭载在汽车上的软件。
+
+---
+
+> **English:** Eventually, self-driving cars will take the form of a shared autonomous fleet. You buy your car, and you could choose to use your car exclusively yourself, have it used only by friends and family, or only by other drivers who are rated five stars. You can choose to share it sometimes but not other times. That's 100 percent what will occur. It's just a question of when.
+>
+> **中文：** 最终，自动驾驶汽车将采取共享自动驾驶车队的形式。你购买你的汽车，你可以选择 exclusively 自己使用你的汽车，只让朋友和家人使用，或只由其他评级为五星的司机使用。你可以选择有时共享它，但有时不共享。那是 100% 会发生的。这只是时间问题。
+
+---
+
+> **English:** This autonomy shift is massive, because you could suddenly have five times the utility of the car you currently have. Say a normal passenger car gets ten to twelve hours a week of usage. An autonomous car could be used fifty to sixty hours a week.
+>
+> **中文：** 这种自动驾驶转变是巨大的，因为你突然可以拥有你目前汽车五倍的效用。假设一辆普通乘用车每周使用十到十二小时。一辆自动驾驶汽车每周可以使用五十到六十小时。
+
+---
+
+> **English:** This is all good for the environment, because you need fewer cars to get the same thing done. We would need fewer parking lots and garages to store cars when they're not in use, because they're in use a lot more.
+>
+> **中文：** 这对环境都有好处，因为你需要更少的汽车来完成同样的事情。我们将需要更少的停车场和车库来存放不使用的汽车，因为它们使用得更多。
+
+---
+
+> **English:** If this is true, as autonomous driving capability is turned on for the Tesla fleet, it may be the biggest asset value increase in history…overnight.
+>
+> **中文：** 如果这是真的，随着特斯拉车队开启自动驾驶能力，这可能是历史上最大的资产价值增长……一夜之间。
+
+---
+
+> **English:** So, in short, Master Plan Part Deux is: → Create stunning solar roofs with seamlessly integrated battery storage. → Expand the electric vehicle product line to address all major segments. → Develop a self-driving capability that is ten times safer than manual via massive fleet learning. → Enable your car to make money for you when you aren't using it.
+>
+> **中文：** 所以，简而言之，第二部总体规划是：→ 创建令人惊叹的太阳能屋顶，无缝集成电池存储。→ 扩展电动汽车产品线，涵盖所有主要细分市场。→ 通过大规模车队学习开发比手动驾驶安全十倍的自动驾驶能力。→ 让你在不使用汽车时为你赚钱。
+
+---
+
+> **English:** I can't say enough about the profundity of full self-driving. It will be one of the biggest changes in history. It's not just some feature; it is as profound as electrification. We already have millions of cars on the road now able to achieve this with the right software update.
+>
+> **中文：** 我对完全自动驾驶的深远意义怎么说都不为过。它将是历史上最大的变化之一。它不仅仅是一些功能；它与电气化一样深远。我们现在已经有数百万辆汽车在路上，通过正确的软件更新就能实现这一点。
+
+---
+
+> **English:** Eventually, a vehicle must be designed as a clean Robotaxi. We're going to take that risk. No mirrors, no pedals, no steering wheel. This will be a historically megarevolutionary product. It will transform everything. This is the product that makes Tesla a ten-trillion-dollar company. People will be talking about this moment in a hundred years.
+>
+> **中文：** 最终，车辆必须设计为干净的 Robotaxi。我们将承担这个风险。没有镜子，没有踏板，没有方向盘。这将是一个历史上超级革命性的产品。它将改变一切。这是让特斯拉成为十万亿美元公司的产品。人们将在一百年后谈论这一刻。
+
+---
+
+## SUSTAINABLE ABUNDANCE
+## 可持续丰盛
+
+---
+
+> **English:** We're accelerating the world's transition to sustainable abundance.
+>
+> **中文：** 我们正在加速世界向可持续丰盛的过渡。
+
+---
+
+> **English:** In Tesla's Master Plan, Part 3, the thing we wanted to convey, more importantly than anything else, is that there is a clear path to a sustainable-energy Earth. It doesn't require destroying natural habitats; it doesn't require us to be austere and stop using electricity. We have published a detailed white paper with all of our assumptions and calculations of a clear path to a fully sustainable Earth, with abundance.
+>
+> **中文：** 在特斯拉总体规划第三部分中，我们想传达的，比任何其他事情都重要的是，有一个清晰的通往可持续能源地球的道路。它不需要破坏自然栖息地；它不需要我们节俭并停止使用电力。我们发表了一份详细的白皮书，包含我们所有的假设和计算，通往完全可持续地球的清晰道路，带有丰盛。
+
+---
+
+> **English:** In fact, you could support a civilization much larger on Earth. Much more than the current eight billion humans could be supported sustainably on Earth.
+>
+> **中文：** 事实上，你可以在地球上支持一个更大的文明。远远超过目前的 80 亿人类可以在地球上可持续地支持。
+
+---
+
+> **English:** I'm often shocked by how few people realize this. Most of the smart people I know actually don't see this clear path. They think there is no path to a sustainable energy future with our current population. Or that we'd have to resort to extreme measures. None of this is true. In Master Plan, Part 3, we walk through the calculations for how to create a sustainable-energy civilization.
+>
+> **中文：** 我经常震惊于很少有人意识到这一点。我认识的大多数聪明人实际上看不到这条清晰的路径。他们认为以我们目前的人口没有通往可持续能源未来的道路。或者我们不得不诉诸极端措施。这些都不是真的。在总体规划第三部分中，我们逐步计算如何创建一个可持续能源文明。
+
+---
+
+> **English:** A fully electrified and sustainable economy is within reach through the actions in this paper: 1. Repower the existing grid with renewables 2. Switch to electric vehicles 3. Switch to heat pumps in residential, business, and industry 4. Electrify high-temperature heat delivery and hydrogen production 5. Sustainably fuel planes and boats 6. Manufacture the sustainable energy economy
+>
+> **中文：** 通过本文中的行动，完全电气化和可持续的经济触手可及：1. 用可再生能源重新供电现有电网 2. 转向电动汽车 3. 在住宅、商业和工业中转向热泵 4. 电气化高温热输送和氢气生产 5. 可持续地为飞机和船只提供燃料 6. 制造可持续能源经济
+
+---
+
+> **English:** Our models show the electrified and sustainable future is technically feasible and requires less investment and less material extraction than continuing today's unsustainable energy economy.
+>
+> **中文：** 我们的模型表明，电气化和可持续的未来在技术上是可行的，并且比继续今天不可持续的能源经济需要更少的投资和更少的材料开采。
+
+---
+
+> **English:** The tools we make at Tesla help us build the products that advance human prosperity. Making technologically advanced products that are affordable and available at scale is required to build a flourishing and unconstrained society. It serves to further democratize society while raising everyone's quality of life in the process.
+>
+> **中文：** 我们在特斯拉制造的工具帮助我们建造促进人类繁荣的产品。制造价格实惠且可大规模获得的技术先进产品是建立繁荣和不受约束的社会所必需的。它有助于进一步民主化社会，同时在此过程中提高每个人的生活质量。
+
+---
+
+> **English:** The hallmark of meritocracy is creating opportunities that enable each person to use their skills to accomplish whatever they imagine. Everyone deserves access to these opportunities, and technological growth can help ensure that each of us is able to maximize our most limited resource: time.
+>
+> **中文：** 精英管理的标志是创造机会，使每个人都能利用自己的技能完成他们想象的任何事情。每个人都应该有机会获得这些机会，技术增长可以帮助确保我们每个人都能够最大化我们最有限的资源：时间。
+
+---
+
+## OUR EXISTENTIAL RISKS
+## 我们的生存风险
+
+---
+
+> **English:** Don't worry about it. I mean, worry about it. Because if you worry about it, ironically, it will be okay. It will be a self-unfulfilling prophecy.
+>
+> **中文：** 不要担心它。我的意思是，担心它。因为如果你担心它，讽刺的是，它会没事的。这将是一个自我未实现的预言。
+
+---
+
+### This Is the Best Time to Be Alive
+### 这是活着的最佳时机
+
+---
+
+> **English:** Q: What period of history would you prefer to live in the most?
+>
+> **中文：** 问：你最喜欢生活在哪个历史时期？
+
+---
+
+> **English:** Right now. The present is the most interesting time in history—and I read a lot of history. Let's do our best to keep that going.
+>
+> **中文：** 现在。现在是历史上最有趣的时期——我读了很多历史。让我们尽最大努力保持下去。
+
+---
+
+> **English:** I find history fascinating. A lot of incredible things have been done, good and bad. By learning about them, you understand the nature of civilization and individuals.
+>
+> **中文：** 我发现历史很迷人。很多不可思议的事情已经完成，好的和坏的。通过了解它们，你理解文明和个人的本质。
+
+---
+
+> **English:** There's a lot of human history, but most of it is people getting on with their lives. Human history is not a nonstop war and disaster. Those are actually intermittent and rare. If they weren't, humans would soon cease to exist. But historians write more about wars than peace. A normal year where nothing major happened won't be written about much. Most people just farmed and lived their life as a villager somewhere.
+>
+> **中文：** 人类历史很多，但大部分是人们继续他们的生活。人类历史不是无休止的战争和灾难。那些实际上是间歇性的和罕见的。如果不是这样，人类很快就会停止存在。但历史学家写的战争比和平多。一个没有发生重大事件的正常年份不会被写太多。大多数人只是耕种并在某个地方作为村民生活。
+
+---
+
+> **English:** Life was tough for most of history. In most of human history, a good year would be one where not that many people in your village died of disease, starvation, freezing, or being killed by a neighboring village. If you only lost 5 percent of your village in a year, that was a good year.
+>
+> **中文：** 生活在大部分历史中都很艰难。在人类历史的大多数时候，好的一年是你村里没有太多人死于疾病、饥饿、冻死或被邻近村庄杀死。如果你一年只失去村里 5% 的人，那是好的一年。
+
+---
+
+> **English:** Not starving to death would have been the primary goal of most people throughout history. Just making sure they had enough food to last through the winter and not freeze to death.
+>
+> **中文：** 不饿死将是历史上大多数人的主要目标。只是确保他们有足够的食物度过冬天，不会冻死。
+
+---
+
+> **English:** If you judge history from what is morally acceptable today, you'd give everyone a failing grade. I don't think anyone would get a passing grade in morality if you look back to even three hundred years ago.
+>
+> **中文：** 如果你从今天道德上可接受的标准来判断历史，你会给每个人不及格的分数。我认为如果你回顾到甚至三百年前，没有人会在道德上得到及格分数。
+
+---
+
+> **English:** Q: How does history help you understand the future?
+>
+> **中文：** 问：历史如何帮助你理解未来？
+
+---
+
+> **English:** I try to understand the rise and fall of civilizations. I've read a lot of history to discern the facts of what humans did.
+>
+> **中文：** 我试图理解文明的兴衰。我读了很多历史来辨别人类所做的事实。
+
+---
+
+> **English:** We take for granted that "it's always going to be there," but if you study history, you realize civilizations rise and fall.
+>
+> **中文：** 我们认为"它将永远存在"是理所当然的，但如果你研究历史，你会意识到文明兴衰。
+
+---
+
+> **English:** I was reading about the ancient Sumerians, who were arguably the first civilization. They were the first to develop writing, but eventually they died out. Then, nobody could read their writing at all. They were impressive in their time but they faded out as a civilization. The ancient Egyptians, the same thing. One after another. Ancient Greece had its day. There've been ebbs and flows in the Chinese and Indian civilizations over the eons as well.
+>
+> **中文：** 我在阅读关于古代苏美尔人，他们可以说是第一个文明。他们是第一个发展文字的，但最终他们灭绝了。然后，没有人能读懂他们的文字。他们在他们的时代令人印象深刻，但作为一个文明他们消失了。古埃及人，同样的事情。一个接一个。古希腊有过它的辉煌。中国和印度文明在亿万年中也有起伏。
+
+---
+
+> **English:** Only a tiny fraction of what was ever written in history is available to us now. Probably less than 1 percent. If they didn't chisel it in stone or put it in a clay tablet, we don't have it. There are a few papyrus scrolls that are thousands of years old because they were deep inside a pyramid. The little information we have shows many civilizations rising and falling. It's wild. And the basics of human nature are more or less the same today.
+>
+> **中文：** 历史上写过的东西只有一小部分现在可供我们使用。可能不到 1%。如果他们没有把它刻在石头上或放在粘土板上，我们就没有它。有一些纸莎草卷轴有几千年的历史，因为它们在金字塔深处。我们拥有的少量信息显示许多文明兴衰。这很疯狂。人性的基本今天或多或少是一样的。
+
+---
+
+> **English:** We see patterns for civilizations as they go through a life cycle, like an organism does. A human is a zygote, fetus, baby, toddler, teenager, eventually gets older, and dies. Every civilization goes through a life cycle. No civilization will last forever.
+>
+> **中文：** 我们看到文明在经历生命周期时的模式，就像生物体一样。人类是受精卵、胎儿、婴儿、幼儿、青少年，最终变老，然后死亡。每个文明都经历一个生命周期。没有文明会永远存在。
+
+---
+
+> **English:** The birth rate might be the biggest single threat to the future of human civilization. Artificial intelligence (AI) gone wrong is a big concern. Religious extremism is a concern. There are quite a few important problems to solve.
+>
+> **中文：** 出生率可能是人类文明未来的最大单一威胁。人工智能（AI）出错是一个大问题。宗教极端主义是一个问题。有相当多的重要问题需要解决。
+
+---
+
+> **English:** We should view our civilization as much more fragile than we think. We must keep civilization going onward and upward as much as possible and try to minimize the civilizational threats that occur.
+>
+> **中文：** 我们应该将我们的文明视为比我们认为的更脆弱。我们必须尽可能让文明继续向前向上，并尽量减少发生的文明威胁。
+
+---
+
+### World War III
+### 第三次世界大战
+
+---
+
+> **English:** I'm not predicting a world war anytime soon. But given enough time, it will likely happen. This has been our pattern in the past. In the last century we had two massive world wars, three if you count the Cold War. It's unlikely that we'll never have another world war. We probably will at some point.
+>
+> **中文：** 我不是预测很快会发生世界大战。但给定足够的时间，它可能会发生。这是我们过去的模式。在上个世纪我们有两次大规模世界大战，如果算上冷战就是三次。我们永远不会再有世界大战是不太可能的。我们可能在某个时候会有。
+
+---
+
+> **English:** Any war is tragic and difficult on a local basis. Then some wars are civilization-ending, or have that potential. Global thermonuclear warfare has a high potential to end civilization, perhaps permanently. But it could severely wound civilization and set back human progress to the Stone Age.
+>
+> **中文：** 任何战争在局部基础上都是悲剧和困难的。然后一些战争是文明终结的，或有这种潜力。全球热核战争有很高的可能性终结文明，可能是永久性的。但它可能严重伤害文明，将人类进步倒退到石器时代。
+
+---
+
+> **English:** We want to prioritize avoiding civilizational risks over things that are painful and tragic on a local level, but are not civilizational risks.
+>
+> **中文：** 我们希望优先考虑避免文明风险，而不是那些在局部层面上痛苦和悲剧但不是文明风险的事情。
+
+---
+
+> **English:** Few people alive today viscerally understand the horrors of war, at least in the US. This concerns me. Obviously people on the front lines in Ukraine and Russia understand how terrible war is, but how many people in the West understand it? My grandfather was in World War II. He was severely traumatized. For almost six years he was fighting in eastern North Africa and Italy. All his friends were killed in
+>
+> **中文：** 今天活着的人很少发自内心地理解战争的恐怖，至少在美国是这样。这让我担心。显然乌克兰和俄罗斯前线的人理解战争有多可怕，但西方有多少人理解它？我的祖父在第二次世界大战中。他受到严重创伤。将近六年他在北非东部和意大利作战。他所有的朋友都在
+
+---
