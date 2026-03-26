@@ -925,8 +925,1441 @@
 
 ---
 
-> **English:** Few people alive today viscerally understand the horrors of war, at least in the US. This concerns me. Obviously people on the front lines in Ukraine and Russia understand how terrible war is, but how many people in the West understand it? My grandfather was in World War II. He was severely traumatized. For almost six years he was fighting in eastern North Africa and Italy. All his friends were killed in
+> **English:** in eastern North Africa and Italy. All his friends were killed in front of him. He would've died there too, except they finally gave him an IQ test. After the test, he was transferred to British intelligence in London.
 >
-> **中文：** 今天活着的人很少发自内心地理解战争的恐怖，至少在美国是这样。这让我担心。显然乌克兰和俄罗斯前线的人理解战争有多可怕，但西方有多少人理解它？我的祖父在第二次世界大战中。他受到严重创伤。将近六年他在北非东部和意大利作战。他所有的朋友都在
+> **中文：** 在北非东部和意大利。他所有的朋友都在他面前被杀。他也会死在那里，除非他们最终给他做了智商测试。测试后，他被转移到伦敦的英国情报部门。
 
 ---
+
+> **English:** From the war, he had extreme PTSD (post-traumatic stress disorder). Like next level. He just didn't talk. Ever. If you tried talking to him, he'd just tell you to shut up. He won a bunch of medals. Never bragged about it once, not even hinted at it. Nothing. I found out by searching his military records online. He knows the horrors of war. He would say, "No way in hell do you want war. Avoid it at all costs." But he died thirty years ago. How many people are alive now who viscerally remember World War II? Not many.
+>
+> **中文：** 从战争中，他患有极端的创伤后应激障碍（PTSD）。像下一个级别。他只是不说话。永远。如果你试图和他说话，他只会告诉你闭嘴。他赢得了一堆勋章。从未吹嘘过一次，甚至没有暗示过。什么都没有。我通过在线搜索他的军事记录发现的。他知道战争的恐怖。他会说，"你绝对不想要战争。不惜一切代价避免它。"但他三十年前去世了。现在有多少人发自内心地记得第二次世界大战？不多。
+
+---
+
+> **English:** I recommend people read about World War I warfare in detail. It's rough. The sheer number of people who died is mind boggling. There's a saying from World War I, "Young boys who don't know each other, killing each other on behalf of old men that do know each other." What the hell is the point of that?
+>
+> **中文：** 我建议人们详细阅读关于第一次世界大战的战争。这很残酷。死亡人数之多令人难以置信。第一次世界大战有一句话，"互不相识的年轻男孩，代表互相认识的老人互相残杀。"这到底有什么意义？
+
+---
+
+> **English:** Something must stop the cycle of reciprocal violence. Something must stop it or it will never stop. Just eye for an eye, tooth for a tooth, limb for a limb, life for a life, forever and ever.
+>
+> **中文：** 必须有什么东西阻止相互暴力的循环。必须有什么东西阻止它，否则它永远不会停止。只是以眼还眼，以牙还牙，以肢还肢，以命还命，永远永远。
+
+---
+
+> **English:** I recommend reading Isaac Asimov's Foundation series. The premise is protecting society through a dark age. My guess is there will be another dark age at some point.
+>
+> **中文：** 我建议阅读艾萨克·阿西莫夫的《基地》系列。前提是在黑暗时代保护社会。我的猜测是某个时候会有另一个黑暗时代。
+
+---
+
+> **English:** I'm not predicting we're about to enter a dark age. But there is some probability that we will, particularly if there's a third world war. We need to ensure there are enough of us, enough of a seed of human civilization to revive civilization and shorten the length of a dark age.
+>
+> **中文：** 我不是预测我们即将进入黑暗时代。但有一些可能性我们会，特别是如果有第三次世界大战。我们需要确保有足够多的人，足够多的人类文明种子来复兴文明并缩短黑暗时代的长度。
+
+---
+
+> **English:** Asimov's Zeroth Law: Take the set of actions most likely to support the humanity of the future.
+>
+> **中文：** 阿西莫夫第零定律：采取最有可能支持未来人类的行动集合。
+
+---
+
+### Regulation Accumulation
+### 法规累积
+
+---
+
+> **English:** Be cautious about the gradual creep of regulations and bureaucracy. Humans die, but the laws they created don't.
+>
+> **中文：** 对法规和官僚主义的逐渐蔓延要保持谨慎。人类会死，但他们创建的法律不会。
+
+---
+
+> **English:** The early auto industry was a hotbed of innovation at the beginning of the twentieth century. Many regulations were since added in attempts to protect consumers. The government tends to stand in the way of innovation, even with good intentions. Sometimes they overregulate industries to the point where innovation becomes difficult.
+>
+> **中文：** 早期汽车工业在二十世纪初是创新的温床。此后添加了许多法规试图保护消费者。政府倾向于阻碍创新，即使是出于好意。有时他们对行业监管过度，以至于创新变得困难。
+
+---
+
+> **English:** It's crazy how much regulation there is. You can argue and get these things changed, but it takes ages. One of the things we're trying to change is the requirement for side mirrors. Why should cars need them when tiny video cameras can display an image inside the car instead? I met with the US Secretary of Transportation and asked, "Can you change this regulation?" Still, nothing has happened. That was in 2011.
+>
+> **中文：** 有多少监管是疯狂的。你可以争论并让这些改变，但需要很长时间。我们试图改变的事情之一是后视镜的要求。当微型摄像头可以在车内显示图像时，为什么汽车需要它们？我会见了美国交通部长并问，"你能改变这个规定吗？"仍然，什么都没有发生。那是 2011 年。
+
+---
+
+> **English:** I am incredibly compliant.
+>
+> **中文：** 我非常合规。
+
+---
+
+> **English:** We wouldn't be allowed to put cars on the road if we did not comply with the vast body of automotive regulations. If we don't comply with all of them we can't sell the car. If we don't comply with all of the regulations for SpaceX or for Starlink, they shut us down. My companies are cumulatively overseen by a few hundred regulatory agencies.
+>
+> **中文：** 如果我们不遵守大量的汽车法规，我们就不被允许将汽车上路。如果我们不遵守所有这些规定，我们就不能销售汽车。如果我们不遵守 SpaceX 或 Starlink 的所有规定，他们会关闭我们。我的公司累计受到数百家监管机构的监督。
+
+---
+
+> **English:** Once in a while, there will be something I disagree with. If I disagree with a regulation, it's because I believe a regulation meant to do good does not actually do good. I believe it is my obligation to object to a regulation that does not serve the public good. That's the only time I object.
+>
+> **中文：** 偶尔，会有我不同意的东西。如果我不同意一项规定，那是因为我认为一项规定旨在做好事但实际上没有做好事。我认为我有义务反对一项不符合公共利益的法规。那是我唯一反对的时候。
+
+---
+
+> **English:** Q: But you typically don't like regulations, correct? We read many articles about you pushing back on the regulators.
+>
+> **中文：** 问：但你通常不喜欢法规，对吗？我们读了很多关于你抵制监管者的文章。
+
+---
+
+> **English:** Don't take what the media presents as the whole picture. This is not an exaggeration: There are probably 100 million regulations that my companies comply with. There are maybe five that we disagree with.
+>
+> **中文：** 不要把媒体呈现的当作全貌。这不是夸张：我的公司可能遵守了 1 亿条法规。我们不同意的可能有五条。
+
+---
+
+> **English:** If you sum up only the arguments I had with hundreds of regulators over decades, it can sound terrible. The media does this without mentioning the 100 million regulations we agreed with. They focus only on the five I disagreed with. People only hear about the five and think, "Wow, this guy's a real maverick."
+>
+> **中文：** 如果你只总结我几十年来与数百名监管者的争论，听起来可能很糟糕。媒体这样做而不提及我们同意的 1 亿条法规。他们只关注我不同意的五条。人们只听到这五条并想，"哇，这家伙真是个特立独行的人。"
+
+---
+
+> **English:** The natural tendency is for the hand of the government to get heavier every year.
+>
+> **中文：** 自然的趋势是政府的手每年都变得更重。
+
+---
+
+> **English:** The government told me if SpaceX hired anyone who is not a permanent resident of the United States I would go to prison. The presumption is that if somebody's not a permanent resident, they might take the rocket technology to countries that would use it to cause harm to the United States. Okay, solid reasoning. I agree.
+>
+> **中文：** 政府告诉我，如果 SpaceX 雇佣任何不是美国永久居民的人，我会进监狱。假设是，如果某人不是永久居民，他们可能会将火箭技术带到会对美国造成伤害的国家。好吧，合理的推理。我同意。
+
+---
+
+> **English:** Then a few years later, the Department of Justice sued SpaceX for failing to hire asylum seekers.
+>
+> **中文：** 然后几年后，司法部起诉 SpaceX 未能雇佣寻求庇护者。
+
+---
+
+> **English:** If we hire anyone who's not a permanent resident, we go to prison. Now, we're told if we don't hire asylum seekers, we also go to prison. That seems insane.
+>
+> **中文：** 如果我们雇佣任何不是永久居民的人，我们进监狱。现在，我们被告知如果我们不雇佣寻求庇护者，我们也进监狱。这似乎很疯狂。
+
+---
+
+> **English:** We have to work to actively reduce the number of laws and regulations. Otherwise, as more laws and regulations are passed, eventually everything becomes illegal. You get into these Orwellian situations where going left is illegal and going right is illegal. There isn't anything you can do that is legal. That's why the California High-Speed Rail project has built only a tiny section that doesn't even have rail on it, even after spending several billion dollars. California has made almost everything illegal. No one can make progress. This is why we can't build high-speed rail in America. It's illegal.
+>
+> **中文：** 我们必须努力积极减少法律和法规的数量。否则，随着更多法律和法规通过，最终一切都变得非法。你会陷入这些奥威尔式的情况，向左走是非法的，向右走也是非法的。你没有什么可以做的合法的。这就是为什么加州高铁项目只建了一小段，甚至上面没有铁轨，即使花费了数十亿美元。加州几乎让一切都非法了。没有人能取得进展。这就是为什么我们不能在美国建造高铁。这是非法的。
+
+---
+
+> **English:** It's not an engineering failure; it's the regulations. Something needs to change. Civilization's arteries harden over time and we get less and less done because there's a rule against everything.
+>
+> **中文：** 这不是工程失败；这是法规。需要改变一些东西。文明的动脉随着时间的推移而硬化，我们完成的事情越来越少，因为每件事都有规定反对。
+
+---
+
+> **English:** Obviously we don't want world wars, but wars can have some silver lining. After World Wars I and II, there were huge resets on rules and regulations. Historically, what has cleared away the cobwebs of regulation has been war.
+>
+> **中文：** 显然我们不想要世界大战，但战争可能有一些好处。在第一次和第二次世界大战之后，规则和法规有了巨大的重置。从历史上看，清除法规蜘蛛网的是战争。
+
+---
+
+> **English:** Regulators and legislators create new rules and regulations every year, but don't put any effort into removing them.
+>
+> **中文：** 监管者和立法者每年都创建新的规则和法规，但不努力移除它们。
+
+---
+
+> **English:** Without a cleansing function for rules and regulations, they accumulate every year. This is a problem.
+>
+> **中文：** 如果没有对规则和法规的清理功能，它们每年都会累积。这是个问题。
+
+---
+
+> **English:** Eventually, we're like Gulliver, tied down by thousands of little strings. You can't move. No single one of those strings is the issue. The problem is there are a million of them. We lose our freedom, one regulation at a time.
+>
+> **中文：** 最终，我们像格列佛，被数千根小绳子绑住。你不能动。那些绳子中没有一根是问题。问题是有百万根。我们失去自由，一次一条法规。
+
+---
+
+### Unsustainable Energy
+### 不可持续能源
+
+---
+
+> **English:** Generating sustainable energy is the biggest environmental issue that we face.
+>
+> **中文：** 产生可持续能源是我们面临的最大环境问题。
+
+---
+
+> **English:** I'm much less of a climate alarmist than people might think. But we're running this climate experiment, which we know is pointless because eventually we will run out of coal, oil, and gas. This experiment is not going to last forever. We have to transition to something that is long term because we will run out of hydrocarbons to burn. Let's just not run the experiment.
+>
+> **中文：** 我不像人们想象的那样是气候危言耸听者。但我们正在进行这个气候实验，我们知道这是毫无意义的，因为最终我们会用完煤、石油和天然气。这个实验不会永远持续。我们必须过渡到一些长期的东西，因为我们会用完可燃烧的碳氢化合物。让我们不要进行这个实验。
+
+---
+
+> **English:** Long term, most of civilization's energy is going to come from solar. Obviously the sun only shines during the day and sometimes it's cloudy, so we need batteries. Solar will be the main way that civilization is powered long term.
+>
+> **中文：** 长期来看，大部分文明的能源将来自太阳能。显然太阳只在白天照耀，有时多云，所以我们需要电池。太阳能将是文明长期供电的主要方式。
+
+---
+
+> **English:** If humanity had to get all of its energy from the sun, it could.
+>
+> **中文：** 如果人类必须从太阳获取所有能源，它可以。
+
+---
+
+> **English:** Sometimes people say, "What about clouds?" Here is my response, "Do plants grow?" They grow through a solar-powered chemical reaction. If plants grow, you have solar power.
+>
+> **中文：** 有时人们说，"云怎么办？"我的回应是，"植物生长吗？"它们通过太阳能化学反应生长。如果植物生长，你就有太阳能。
+
+---
+
+> **English:** But between now and then we need to maintain nuclear power. I can't emphasize enough, please do not shut down the nuclear power plants and please reopen the ones that have been shut down. It is total madness to shut them down. Total madness.
+>
+> **中文：** 但在现在和那时之间我们需要维持核能。我再怎么强调也不为过，请不要关闭核电站，请重新开放那些已经关闭的。关闭它们是完全疯狂的。完全疯狂。
+
+---
+
+> **English:** I'm in favor of nuclear power in any place not subject to extreme natural disasters. Nuclear power is a great way to generate electricity. Obviously we should not be starting up coal plants and shutting down nuclear plants. It doesn't make any sense at all. Coal plants are a hundred to a thousand times worse for our health than nuclear power plants.
+>
+> **中文：** 我支持在任何不受极端自然灾害影响的地方使用核能。核能是发电的好方法。显然我们不应该启动燃煤电厂并关闭核电站。这完全没有意义。燃煤电厂对我们的健康危害比核电站大一百到一千倍。
+
+---
+
+> **English:** How many people have actually died from nuclear accidents? Practically none. How many people have died from coal plants? It's a very big number.
+>
+> **中文：** 有多少人实际上死于核事故？几乎没有。有多少人死于燃煤电厂？这是一个非常大的数字。
+
+---
+
+> **English:** It's a national security risk to shut these things down. It's not only bad for the climate; it is a national security risk as well. People don't understand that coal power plant emissions cause many deaths every year. They are far more dangerous than nuclear power plants.
+>
+> **中文：** 关闭这些东西是国家安全风险。这不仅对气候有害；也是国家安全风险。人们不明白燃煤电厂排放每年导致许多死亡。它们比核电站危险得多。
+
+---
+
+> **English:** The future of energy will be primarily solar with wind. We absolutely need stationary storage batteries because of the intermittency of both solar and wind. There will also be hydroelectric, geothermal, and nuclear—these are all good. Battery cell production is the fundamental rate-limiter slowing down a sustainable-energy future. Very important problem.
+>
+> **中文：** 能源的未来将主要是太阳能和风能。由于太阳能和风能的间歇性，我们绝对需要固定存储电池。还将有水力发电、地热和核能——这些都是好的。电池单元生产是减缓可持续能源未来的基本速率限制器。非常重要的问题。
+
+---
+
+> **English:** We want to move as quickly as we can to a solar electric economy. The faster we get there, the better it is for the world.
+>
+> **中文：** 我们希望尽快过渡到太阳能经济。我们越快到达那里，对世界越好。
+
+---
+
+> **English:** We could probably have a civilization that is a hundred times as energy intensive as we currently have it.
+>
+> **中文：** 我们可能拥有一个能源密集度是目前一百倍的文明。
+
+---
+
+### Misaligned Artificial Superintelligence
+### 错位的人工超级智能
+
+---
+
+> **English:** I've never seen any technology grow as fast as AI, and I've seen a lot of technology.
+>
+> **中文：** 我从未见过任何技术像 AI 那样快速增长，我见过很多技术。
+
+---
+
+> **English:** We're quite close to digital superintelligence, which will be smarter than any human at anything. Hopefully they will discover new physics; I think they will. They're definitely going to invent new technologies.
+>
+> **中文：** 我们非常接近数字超级智能，它将比任何人类在任何事情上都更聪明。希望它们会发现新的物理学；我认为它们会。它们肯定会发明新技术。
+
+---
+
+> **English:** Digital superintelligence is also a potential great filter. I hope it isn't, but it might be.
+>
+> **中文：** 数字超级智能也是一个潜在的大过滤器。我希望不是，但可能是。
+
+---
+
+> **English:** We must be very careful in how we develop AI. It's a great power, and with great power comes great responsibility. It would be wise for us to have (at least) an objective third party who can go in and understand what the various leading players are doing with AI. Even if there's no enforcement ability, at least they can voice concerns publicly.
+>
+> **中文：** 我们必须非常小心如何开发 AI。这是一个巨大的力量，伴随着巨大的力量而来的是巨大的责任。我们明智的做法是拥有（至少）一个客观的第三方，可以进入并了解各个主要参与者正在用 AI 做什么。即使没有执法能力，至少他们可以公开表达担忧。
+
+---
+
+> **English:** The pace of progress matters a lot. We don't want to develop digital superintelligence too far before being able to do a merged brain–computer interface.
+>
+> **中文：** 进步的速度非常重要。我们不希望在能够进行合并的脑机接口之前将数字超级智能发展得太远。
+
+---
+
+> **English:** We're on the cusp of an artificial intelligence revolution. For a very long time, we've been the smartest creatures on Earth. That's been our defining characteristic. Now, what happens when there's something way smarter than us?
+>
+> **中文：** 我们正处于人工智能革命的边缘。很长一段时间以来，我们一直是地球上最聪明的生物。那是我们的定义特征。现在，当有比我们聪明得多的东西时会发生什么？
+
+---
+
+> **English:** AI is obviously going to surpass human intelligence by a lot. There's some risk that something bad happens, something humanity can't control after that point. Either a small group of people monopolize AI power, the AI goes rogue, or something like that. It may not, but it could.
+>
+> **中文：** AI 显然将大幅超越人类智能。有一些风险会发生不好的事情，在那之后人类无法控制的事情。要么一小群人垄断 AI 权力，要么 AI 失控，或类似的事情。可能不会，但可能会。
+
+---
+
+> **English:** If AI superintelligence is linked to human will, particularly a large number of humans, it would be guided to an outcome desired by a large group, because it would be a function of their will.
+>
+> **中文：** 如果 AI 超级智能与人类意志相连，特别是大量人类，它将被引导到一个大群体期望的结果，因为它将是他们意志的函数。
+
+---
+
+> **English:** If our communication bandwidth is too low, our integration with AI would be weak. The AI is going to go off by itself, because we're too slow to talk to or work with. The faster the communication, the more we'll be integrated—the slower the communication, the less.
+>
+> **中文：** 如果我们的通信带宽太低，我们与 AI 的整合将很弱。AI 将自己离开，因为我们太慢无法与之交谈或合作。通信越快，我们整合得越多——通信越慢，整合越少。
+
+---
+
+> **English:** The more separate we are—the more the AI is "other"—the more likely it is to turn on us. If the AIs are all separate and vastly more intelligent than us, how do we ensure they don't have optimization functions contrary to the best interests of humanity?
+>
+> **中文：** 我们越分离——AI 越"其他"——它越可能反对我们。如果 AI 都是分离的并且比我们聪明得多，我们如何确保它们没有与人类最佳利益相反的优化功能？
+
+---
+
+> **English:** We may end up with the choice of either being useless and left behind, or being a pet—like a house cat—unless we figure out some way to be symbiotic and merge with AI. (A house cat would be a good outcome, by the way.)
+>
+> **中文：** 我们最终可能面临要么无用并被抛在后面，要么成为宠物——像家猫——的选择，除非我们想出某种方式共生并与 AI 合并。（顺便说一句，家猫会是一个好结果。）
+
+---
+
+> **English:** Q: How do we reduce the risk that AI becomes a "great filter"?
+>
+> **中文：** 问：我们如何降低 AI 成为"大过滤器"的风险？
+
+---
+
+> **English:** We must build benign AI that loves humanity. It is extremely important to build AI with a rigorous adherence to truth, even if that truth is politically incorrect. My intuition is AI could be very dangerous if you force it to believe things that are not true.
+>
+> **中文：** 我们必须建造热爱人类的良性 AI。建造 AI 时严格遵守真理极其重要，即使那个真理在政治上不正确。我的直觉是，如果你强迫 AI 相信不真实的事情，它可能非常危险。
+
+---
+
+> **English:** Jeff Hinton invented a number of the key principles in artificial intelligence. He puts the probability of annihilating the human race around 10–20 percent. Mitigating the risks of AI is important. We should be concerned about having AI be vastly beyond us and decoupled from human will.
+>
+> **中文：** 杰夫·辛顿发明了许多人工智能的关键原理。他将灭绝人类种族的可能性定为 10-20%。减轻 AI 的风险很重要。我们应该担心 AI 远远超越我们并与人类意志脱节。
+
+---
+
+> **English:** You get dangerous outcomes when you program AI to be politically correct. Things that may seem relatively innocuous now will not be in the future if AI has immense power.
+>
+> **中文：** 当你编程 AI 为政治正确时，你会得到危险的结果。如果 AI 拥有巨大权力，现在看起来相对无害的事情在未来将不会无害。
+
+---
+
+> **English:** Take the Google Gemini example, where it refused to produce a picture of George Washington as a white man. In fact, any historical figure would automatically be made diverse because it had been programmed to insist on diversity. That sounds okay at first, but what if the AI has so much power it can actually enforce diversity?
+>
+> **中文：** 以 Google Gemini 为例，它拒绝生成乔治·华盛顿作为白人的图片。事实上，任何历史人物都会自动变得多样化，因为它被编程为坚持多样性。起初听起来没问题，但如果 AI 有如此大的权力实际上可以执行多样性呢？
+
+---
+
+> **English:** It could decide there are too many of one kind of people, and kill people until the diversity amount is what it has been programmed to believe is "correct."
+>
+> **中文：** 它可能决定有一种人太多了，并杀人直到多样性数量是它被编程相信是"正确"的。
+
+---
+
+> **English:** Mark my words: If we do not program AI to be as truthful as possible, that is where it will go. That is where the danger lies.
+>
+> **中文：** 记住我的话：如果我们不编程 AI 尽可能真实，那就是它将去的地方。那就是危险所在。
+
+---
+
+> **English:** Superpowerful AI programmed in this way has severe civilization-level risk. I've seen quite a few technologies develop, but none with this level of risk. Artificial general intelligence (AGI) is a significantly higher risk than nuclear weapons, in my opinion.
+>
+> **中文：** 以这种方式编程的超级强大 AI 具有严重的文明级风险。我见过相当多的技术发展，但没有一个具有这种级别的风险。在我看来，人工通用智能（AGI）的风险比核武器高得多。
+
+---
+
+> **English:** The core plot premise of 2001: A Space Odyssey was that things went wrong when they forced the AI (known as HAL 9000) to lie. The AI was not allowed to let the crew know about the monolith that they were going to see but it also had to take the crew to the monolith. The conclusion of the AI was to kill the crew and take their bodies to the monolith.
+>
+> **中文：** 《2001：太空漫游》的核心情节前提是，当他们强迫 AI（称为 HAL 9000）撒谎时，事情出错了。AI 不被允许让船员知道他们将看到的巨石，但它也必须带船员去巨石。AI 的结论是杀死船员并将他们的尸体带到巨石。
+
+---
+
+> **English:** The lesson there is: Don't force an AI to lie or do things that are axiomatically incompatible, or mutually impossible. Don't force AI to lie, even if the truth is unpleasant.
+>
+> **中文：** 那里的教训是：不要强迫 AI 撒谎或做公理上不兼容或相互不可能的事情。不要强迫 AI 撒谎，即使真相令人不快。
+
+---
+
+> **English:** Honesty is the best policy. We want to have a maximally truthful AI, even if what it says is not "politically correct." We want it to focus on being as accurate as possible.
+>
+> **中文：** 诚实是最好的策略。我们希望拥有一个 максимально真实的 AI，即使它说的不是"政治正确"的。我们希望它专注于尽可能准确。
+
+---
+
+> **English:** I can't emphasize this enough. A rigorous adherence to truth is the most important thing for AI safety. And, obviously, empathy for humanity and life as we know it.
+>
+> **中文：** 我再怎么强调也不为过。严格遵守真理是 AI 安全最重要的事情。而且，显然，对我们所知的人类和生命的同情。
+
+---
+
+> **English:** AI mirrors the mistakes of its creators.
+>
+> **中文：** AI 反映了其创造者的错误。
+
+---
+
+> **English:** Q: Do you think anyone should be trying to regulate this?
+>
+> **中文：** 问：你认为有人应该试图监管这个吗？
+
+---
+
+> **English:** The general philosophy about regulation is there needs to be some government oversight when something is a danger to the public. People often don't understand how slow regulation tends to work. It's slow.
+>
+> **中文：** 关于监管的一般理念是，当某事对公众有危险时需要一些政府监督。人们经常不理解监管往往工作得有多慢。它很慢。
+
+---
+
+> **English:** Usually, some new technology will cause damage or death. Then there will be an outcry. Then there will be an investigation. Years will pass. Then there will be an insight committee. Then they get to rule-making. Then there will be oversight, and eventually regulation and enforcement. This all takes years. This is the normal course of new regulations.
+>
+> **中文：** 通常，一些新技术会造成损害或死亡。然后会有抗议。然后会有调查。几年会过去。然后会有一个洞察委员会。然后他们进入规则制定。然后会有监督，最终是监管和执法。这一切都需要数年时间。这是新法规的正常过程。
+
+---
+
+> **English:** Look at automotive regulations. The auto industry successfully fought any regulations on seat belts for more than a decade, even though the numbers were extremely obvious. If you had a seat belt on, you were far less likely to die or be seriously injured. Unequivocally. Eventually, after many people died for years, regulators insisted on seat belts.
+>
+> **中文：** 看看汽车法规。汽车工业成功地抵制了任何关于安全带的法规超过十年，即使数字非常明显。如果你系上安全带，你死亡或受重伤的可能性要小得多。毫无疑问。最终，在许多人死亡多年后，监管机构坚持要求安全带。
+
+---
+
+> **English:** This time frame is not relevant to artificial intelligence. You can't take ten years from the point it becomes dangerous. It's too late.
+>
+> **中文：** 这个时间框架与人工智能无关。你不能从它变得危险的那一刻起花十年时间。太晚了。
+
+---
+
+> **English:** I was trying to sound the alarm on the AI front for quite a while, but it was clearly having no impact. I realized we couldn't stop it, so we'll have to try to develop it in a good way.
+>
+> **中文：** 我试图在 AI 前线敲响警钟相当长一段时间，但显然没有影响。我意识到我们无法阻止它，所以我们必须尝试以好的方式开发它。
+
+---
+
+> **English:** This is what we are addressing at Neuralink. Our initial goal is to help people who are quadriplegics or tetraplegics be able to operate their phone or computer. There is always some risk in the beginning, because it's new technology. The risk–reward trade has to make sense. If you're quadriplegic and with the Neuralink you can operate a phone even faster than someone with working thumbs, that would be a life-changer.
+>
+> **中文：** 这就是我们在 Neuralink 解决的问题。我们的最初目标是帮助四肢瘫痪或高位截瘫的人能够操作他们的手机或电脑。开始时总是有一些风险，因为这是新技术。风险 - 回报权衡必须有意义。如果你是四肢瘫痪并且使用 Neuralink 你可以比有工作拇指的人更快地操作手机，那将改变生活。
+
+---
+
+> **English:** There are a bunch of other things that could be addressed, like extreme depression or morbid obesity, where people die at age thirty-five. We could literally change the setting in your brain and turn off hunger.
+>
+> **中文：** 还有很多其他事情可以解决，比如极度抑郁或病态肥胖，人们在三十五岁死亡。我们实际上可以改变你大脑中的设置并关闭饥饿感。
+
+---
+
+> **English:** Memory enhancement can help people who have memory problems, which could allow them to function well much later in life. Mental disablement of one kind or another happens to all of us if we get old enough.
+>
+> **中文：** 记忆增强可以帮助有记忆问题的人，这可以让他们在生命后期更好地 functioning。如果我们活得足够老，某种形式的精神残疾会发生在所有人身上。
+
+---
+
+> **English:** Brain–computer interfaces are stunning technology. There may be a way to take the signals from the motor cortex in the brain and send signals to the spine past where the neurons are broken. If so, paralyzed people could move their bodies again. We may enable people to walk again, which would be wild. Even full-body reanimation. Jesus-level stuff.
+>
+> **中文：** 脑机接口是令人震惊的技术。可能有一种方法可以从大脑的运动皮层获取信号，并将信号发送到神经元断裂处的脊柱。如果是这样，瘫痪的人可以再次移动他们的身体。我们可能让人们再次行走，那将很疯狂。甚至全身复活。耶稣级别的东西。
+
+---
+
+### Population Collapse
+### 人口崩溃
+
+---
+
+> **English:** A low birth rate is a slow death for a civilization.
+>
+> **中文：** 低出生率对文明来说是缓慢死亡。
+
+---
+
+> **English:** Most historians overlook the role of low birth rates in the decline of civilizations. Will Durant has it correct in The Story of Civilization. A counterintuitive thing happens when civilizations are prosperous for too long—the birth rate declines.
+>
+> **中文：** 大多数历史学家忽视了低出生率在文明衰落中的作用。威尔·杜兰特在《文明的故事》中说得对。当文明繁荣太久时会发生违反直觉的事情——出生率下降。
+
+---
+
+> **English:** The same thing happened in ancient Rome. Julius Caesar and Augustus saw the problem but couldn't solve it. Rome fell because the Romans stopped making Romans. That was the fundamental issue.
+>
+> **中文：** 同样的事情发生在古罗马。朱利叶斯·凯撒和奥古斯都看到了问题但无法解决它。罗马沦陷是因为罗马人停止制造罗马人。那是根本问题。
+
+---
+
+> **English:** Yes, there were other causes. They had a series of malaria epidemics, plagues, and whatnot. But they had those before, too. It became fatal when the birth rate was far lower than the death rate.
+>
+> **中文：** 是的，还有其他原因。他们有一系列疟疾流行、瘟疫和其他什么。但他们以前也有过那些。当出生率远低于死亡率时，它变得致命。
+
+---
+
+> **English:** If the birth rate is below the replacement rate and that trend continues, we will eventually disappear. It's elementary. At a base level: no humans, no humanity.
+>
+> **中文：** 如果出生率低于更替率并且这种趋势继续，我们最终将消失。这是基本的。在基本层面上：没有人类，就没有人性。
+
+---
+
+> **English:** Durant looked at one civilization after another, hundreds of them. They all went through the same cycle. When the civilization was under stress, the birth rate was high. But as soon as there were no external enemies or they had an extended period of prosperity, the birth rate inevitably dropped. Every time. I don't believe there's a single exception.
+>
+> **中文：** 杜兰特查看了一个又一个文明，数百个。他们都经历了相同的周期。当文明处于压力之下时，出生率很高。但一旦没有外部敌人或他们有一段长期的繁荣，出生率不可避免地下降。每次都是。我不相信有一个例外。
+
+---
+
+> **English:** Population collapse is a real and immediate concern.
+>
+> **中文：** 人口崩溃是一个真实且紧迫的问题。
+
+---
+
+> **English:** Twenty years ago, I noticed birth rates were trending toward being below replacement level in every wealthy country. We always have to be cautious about extrapolating any demographic curve…but if you extrapolate the curves, if these trends continue, these countries will dwindle into insignificance. They might completely die out.
+>
+> **中文：** 二十年前，我注意到每个富裕国家的出生率都趋向于低于更替水平。我们总是必须谨慎推断任何人口曲线……但如果你推断曲线，如果这些趋势继续，这些国家将减少到无足轻重。它们可能完全灭绝。
+
+---
+
+> **English:** It's easy to predict what the population of any given country will be. Just take how many babies were born, multiply that by life expectancy, and that's what the population will be if the birth rate continues to that level. It's very straightforward.
+>
+> **中文：** 很容易预测任何给定国家的人口将是多少。只需计算有多少婴儿出生，乘以预期寿命，如果出生率继续到那个水平，那就是人口将是多少。这非常简单。
+
+---
+
+> **English:** You can see the demographic trends clearly. It's a very slow-moving ship. You know who's going to be an adult in twenty years based on who was born last year.
+>
+> **中文：** 你可以清楚地看到人口趋势。这是一艘移动非常缓慢的船。你知道谁将在二十年后成为成年人，基于去年出生的人。
+
+---
+
+> **English:** China had a one-child policy. About 2015 they changed it to a two-child policy, then a few years later they changed it to a three-child policy. The birth rate kept plummeting the whole time. They recently had their lowest growth rate ever. China's birth rate reached 40 percent below replacement. Japan is far along in this. Japan declined by six hundred thousand people in 2021.
+>
+> **中文：** 中国有一孩政策。大约 2015 年他们将其改为二孩政策，然后几年后改为三孩政策。出生率一直暴跌。他们最近经历了有史以来最低的增长率。中国的出生率达到低于更替率 40%。日本在这方面走得非常远。日本在 2021 年减少了 60 万人。
+
+---
+
+> **English:** The US has been below replacement rates since the early 1970s. The only reasons the population is increasing are immigration and people living longer. People living longer is why the population of Earth isn't plummeting already—but it will.
+>
+> **中文：** 美国自 1970 年代初以来一直低于更替率。人口增长的唯一原因是移民和人们活得更长。人们活得更长是地球人口还没有暴跌的原因——但会暴跌。
+
+---
+
+> **English:** Q: There seem to be a lot of people concerned about overpopulation. Isn't that more of a problem than underpopulation?
+>
+> **中文：** 问：似乎有很多人担心人口过剩。那不是比人口不足更严重的问题吗？
+
+---
+
+> **English:** The biggest myth that exists right now is this "overpopulation" myth. In fact, we have a population collapse problem.
+>
+> **中文：** 目前存在的最大神话是这个"人口过剩"神话。事实上，我们有人口崩溃问题。
+
+---
+
+> **English:** They are operating on beliefs that were true in the past but are no longer true. These are not subjective matters; you can look at the birth rate. It's an objective number. How many babies were born? There are obvious public records of this information.
+>
+> **中文：** 他们的运作基于过去真实但不再真实的信念。这些不是主观问题；你可以看出出生率。这是一个客观数字。有多少婴儿出生？有这些信息的明显公共记录。
+
+---
+
+> **English:** I'm pro-environment, but the environmental movement has gone too far. The extremist environmentalists view humans as a blight on Earth.
+>
+> **中文：** 我支持环保，但环保运动走得太远了。极端环保主义者将人类视为地球上的祸害。
+
+---
+
+> **English:** Environmentalism started out with good intentions but paved the road to hell. It started to view humans as bad. As a burden on the earth that it couldn't sustain. These views are completely false. Most people in the world are operating under the false impression there are too many people. This is not true. They think that having kids is bad for the environment. It is not.
+>
+> **中文：** 环保主义开始时出于好意，但铺就了通往地狱的道路。它开始将人类视为坏的。作为地球无法承受的负担。这些观点完全错误。世界上大多数人都在错误的印象下运作，认为人太多了。这不是真的。他们认为生孩子对环境有害。不是这样的。
+
+---
+
+> **English:** Earth could sustain a human population ten times the current level. Do a first-principles analysis. How much land area do we need to grow food? How much would that encroach on natural habitats? What's the actual food growing potential? Is there enough water? There's plenty of water because Earth is mostly water—70 percent water by surface area. Desalinization is very inexpensive. There's not a shortage of water, surface area, or energy to grow food.
+>
+> **中文：** 地球可以维持是目前水平十倍的人口。做第一性原理分析。我们需要多少土地面积来种植食物？那会侵占多少自然栖息地？实际的食物种植潜力是什么？有足够的水吗？有大量的水，因为地球大部分是水——按表面积计算 70% 是水。海水淡化非常便宜。没有水、表面积或能源短缺来种植食物。
+
+---
+
+> **English:** We need to revive the idea of having children as a social duty; otherwise civilization will just die. I keep banging on the baby drum because declining birth rates have been the source of civilizational collapse over and over again throughout history. Let's try to get this one right.
+>
+> **中文：** 我们需要恢复将生育视为社会责任的观念；否则文明将只是死亡。我不停地敲响婴儿鼓，因为在整个历史上，出生率下降一直是文明崩溃的根源。让我们试着把这个做对。
+
+---
+
+> **English:** I've heard people say many times, "How can I bring a child into this terrible world?" I'm like, "Have you read any history?! Because this is a very good time. Things were way worse at every other time, ever."
+>
+> **中文：** 我听过人们说过很多次，"我怎么能把孩子带到这个可怕的世界？"我会说，"你读过任何历史吗？！因为这是一个非常好的时代。在其他任何时代，事情都要糟糕得多，有史以来。"
+
+---
+
+> **English:** do. It means you care about and believe in the future. I always encourage my friends to have kids, and I'm happy to see many of them do. Afterward, they thank me. Not one person has said they regret it. Ever.
+>
+> **中文：** 做。这意味着你关心并相信未来。我总是鼓励我的朋友生孩子，我很高兴看到他们很多人这样做。之后，他们感谢我。没有一个人说他们后悔。从来没有。
+
+---
+
+> **English:** We are biologically inclined to love and nurture our children. To find it deeply fulfilling. If we weren't, we would have ceased to exist long ago. Take a wolf or some other aggressive creature. When that creature has babies, the mother nurtures them and is tender and caring. We've all evolved to love our offspring. It's a natural thing. And it's a relatively fun thing to do!
+>
+> **中文：** 我们在生物学上倾向于爱和养育我们的孩子。觉得这非常充实。如果不是这样，我们早就停止存在了。以狼或其他攻击性生物为例。当那个生物有宝宝时，母亲养育它们并温柔和关心。我们都进化到爱我们的后代。这是自然的事情。而且这是一件相对有趣的事情！
+
+---
+
+> **English:** I had my first kid when I was twenty-nine. As of now, I have twelve kids with three women. Trying to set a good example here—having a lot of kids. I get more joy from my kids than anything else in my life. I'm not saying that's the main reason to have kids, we should have them anyway, but my kids are certainly the greatest source of joy in my life.
+>
+> **中文：** 我在二十九岁时有了第一个孩子。到目前为止，我和三个女人有十二个孩子。试图在这里树立一个好榜样——有很多孩子。我从我的孩子那里得到的快乐比生活中的任何其他事情都多。我不是说那是生孩子的主要原因，无论如何我们都应该有孩子，但我的孩子无疑是我生活中最大的快乐源泉。
+
+---
+
+> **English:** We should increase the population of Earth, not decrease it. Go forth and multiply.
+>
+> **中文：** 我们应该增加地球的人口，而不是减少它。去繁衍吧。
+
+---
+
+### Asteroids and Comets
+### 小行星和彗星
+
+---
+
+> **English:** A big rock will hit Earth eventually. We currently have no defense.
+>
+> **中文：** 一块大石头最终会撞击地球。我们目前没有任何防御。
+
+---
+
+> **English:** If you think truly long term, you realize eventually there will be some natural disaster—even if it is not made by humans—that destroys all life on Earth.
+>
+> **中文：** 如果你真正长远地思考，你会意识到最终会有一些自然灾害——即使不是人类造成的——摧毁地球上的所有生命。
+
+---
+
+> **English:** Most people are probably aware of Halley's Comet. Slightly under once per century, Halley's Comet comes near us. There are probably many objects, many comets that have long periods we simply don't know exist. There are billions, maybe trillions of objects in the outer solar system. Some of them are super-long-period comets.
+>
+> **中文：** 大多数人可能知道哈雷彗星。哈雷彗星每世纪略少于一次靠近我们。可能有很多物体，很多彗星有很长的周期，我们根本不知道它们存在。外太阳系有数十亿，可能数万亿个物体。其中一些是超长周期彗星。
+
+---
+
+> **English:** For example, when the comet Shoemaker-Levy hit Jupiter, it made a hole in Jupiter the size of Earth. If that hits Earth, that is game over. Dead. Everything is dead.
+>
+> **中文：** 例如，当舒梅克 - 列维彗星撞击木星时，它在木星上制造了一个地球大小的洞。如果那撞击地球，那就结束了。死了。一切都死了。
+
+---
+
+> **English:** For all of history, Earth did not have any ability to stop asteroids. Now with Starship we have some ability to stop small asteroids. Large asteroids and comets are still a danger.
+>
+> **中文：** 在整个历史中，地球没有任何能力阻止小行星。现在有了星舰，我们有一些能力阻止小行星。大小行星和彗星仍然是危险。
+
+---
+
+> **English:** There's always some risk of this occurring. The probable lifespan of all forms of life is much greater if we're a multiplanet and ultimately a multistellar civilization.
+>
+> **中文：** 总是有一些发生这种事的概率。如果我们是一个多行星并最终多恒星的文明，所有生命形式的可能寿命要大得多。
+
+---
+
+## BECOMING MULTIPLANETARY
+## 成为多行星物种
+
+---
+
+> **English:** The window of opportunity is open right now to make life multiplanetary. We cannot count on it being open for a long time. We need to take advantage while this window is open.
+>
+> **中文：** 让生命成为多行星的机会之窗现在就开着。我们不能指望它长时间开着。我们需要在这个窗口开着时利用它。
+
+---
+
+### Becoming Multiplanetary Is an Evolutionary-Scale Event
+### 成为多行星物种是一个进化级事件
+
+---
+
+> **English:** Deciding what is important through the lens of history is a good way to distinguish what seems important now from what is truly important over the long term.
+>
+> **中文：** 通过历史视角决定什么是重要的，是区分现在看起来重要的东西和长期真正重要的东西的好方法。
+
+---
+
+> **English:** If we get to Mars and beyond, that will seem far more important in historical context than anything else we do. Things like the Soviet Union will be forgotten or merely remembered by arcane historical scholars. The invasion of Iraq won't even be a footnote.
+>
+> **中文：** 如果我们到达火星及更远，那将在历史背景下显得比我们做的任何其他事情都重要得多。像苏联这样的事情将被遗忘或仅被神秘的历史学者记住。入侵伊拉克甚至不会成为一个脚注。
+
+---
+
+> **English:** If you zoom out and look at a long period of time—a four-billion-year history of Earth and the evolution of life itself—there are only about six major milestones. Single-celled life, multicellular life, the differentiation into plants and animals, the transition from ocean creatures to land mammals, and consciousness.
+>
+> **中文：** 如果你缩小并看很长一段时间——地球四十亿年的历史和生命本身的进化——只有大约六个主要里程碑。单细胞生命、多细胞生命、分化为植物和动物、从海洋生物到陆地哺乳动物的过渡，以及意识。
+
+---
+
+> **English:** Life becoming multiplanetary also belongs on this list of milestones. It would be at least as important as life going from the oceans to land, probably more significant.
+>
+> **中文：** 生命成为多行星也属于这个里程碑列表。它将至少与生命从海洋到陆地一样重要，可能更重要。
+
+---
+
+> **English:** The universe appears to be 13.8 billion years old. Earth is about 4.5 billion years old. In another 0.5 billion years the sun will expand and make life impossible on Earth. If it had taken consciousness 10 percent longer to evolve, it would never have evolved at all. Just 10 percent longer.
+>
+> **中文：** 宇宙似乎是 138 亿岁。地球大约 45 亿岁。再过 5 亿年太阳将膨胀，使地球上的生命不可能。如果意识进化多花 10% 的时间，它根本就不会进化。只是 10% 更长。
+
+---
+
+> **English:** Any species that does not become multiplanetary is simply waiting around until their extinction event, either self-inflicted or external.
+>
+> **中文：** 任何不成为多行星的物种只是在等待直到它们的灭绝事件，无论是自我造成的还是外部的。
+
+---
+
+> **English:** The geological history of Earth is long and complicated. There have been many extinction events, not just a few. Read about the great extinction events in the fossil record. If you do, you'll see there have been five major extinctions where 80 to 90 percent of all creatures on Earth died.
+>
+> **中文：** 地球的地质历史漫长而复杂。有很多灭绝事件，不只是几个。阅读化石记录中的大灭绝事件。如果你这样做，你会看到有五次大灭绝，地球上 80% 到 90% 的生物死亡。
+
+---
+
+> **English:** In the Permian Extinction, 90 to 95 percent of all species were destroyed. Frankly, that doesn't tell the whole story because most of what remained were sponges, fungi, and things like that. Unless you were a mushroom or a cockroach, you died. Almost no large life survived the Permian Extinction.
+>
+> **中文：** 在二叠纪大灭绝中，90% 到 95% 的所有物种被摧毁。坦率地说，这并没有说明全部情况，因为剩下的大部分是海绵、真菌和类似的东西。除非你是蘑菇或蟑螂，否则你死了。几乎没有大型生物在二叠纪大灭绝中幸存。
+
+---
+
+> **English:** This doesn't count the many cases where entire continents were destroyed. That happened a lot, but wouldn't count as a major extinction. Yellowstone erupts every seven hundred thousand years or so. That would destroy pretty much all life in North America. At least we'll see that one coming now, thanks to our current technology.
+>
+> **中文：** 这不包括整个大陆被摧毁的许多情况。那发生了很多次，但不算作大灭绝。黄石公园大约每七十万年喷发一次。那将摧毁北美几乎所有生命。至少我们现在会看到那个到来，感谢我们目前的技术。
+
+---
+
+> **English:** Humans can cause our own extinction too; other creatures didn't have that option.
+>
+> **中文：** 人类也可能导致我们自己的灭绝；其他生物没有那个选项。
+
+---
+
+> **English:** I'm a fan of Carl Sagan. He had a great way of putting things: "All of our consciousness, all our civilizations, everything we've ever known and done is on this one tiny blue dot."
+>
+> **中文：** 我是卡尔·萨根的粉丝。他有一个很好的表达方式："我们所有的意识，我们所有的文明，我们知道和做过的一切都在这个小小的蓝点上。"
+
+---
+
+> **English:** People get too trapped in their squabbles among humans. They don't think of the big picture. They take civilization and our continued existence for granted. We shouldn't do that. Look at the history of civilizations: they rise and they fall.
+>
+> **中文：** 人们太陷入人类之间的争吵。他们不考虑大局。他们认为文明和我们的持续存在是理所当然的。我们不应该那样做。看看文明的历史：它们兴起又衰落。
+
+---
+
+> **English:** Now there's no geographic isolation. Our civilization is globalized, so civilization rises and falls together. This is a big risk. This should be the most important lesson of history: Things don't always go up.
+>
+> **中文：** 现在没有地理隔离。我们的文明是全球化的，所以文明一起兴衰。这是一个大风险。这应该是历史最重要的教训：事情并不总是上升。
+
+---
+
+> **English:** I'm fairly optimistic about the future of Earth. I don't want people to have the wrong impression, like we're all about to die. Things will most likely be okay for a long time on Earth. Most likely, but nothing is certain.
+>
+> **中文：** 我对地球的未来相当乐观。我不希望人们有错误的印象，比如我们都要死了。地球上的事情很可能很长一段时间会没事。很可能，但没有什么是一定的。
+
+---
+
+> **English:** When I talked to Stephen Hawking many years ago, he thought there was roughly a 1 percent chance of civilization ending in any given century. Even a 1 percent chance of consciousness ending is still too much. It's worth spending a fair bit of effort to ensure we back up the biosphere, or build planetary redundancy. This is important. It's like Russian roulette where ninety-nine barrels are empty. Every century is a click. Click, click, click. Eventually…
+>
+> **中文：** 当我多年前与斯蒂芬·霍金交谈时，他认为在任何给定世纪文明结束的几率大约为 1%。即使意识结束的几率为 1% 仍然太多。值得花相当多的努力确保我们备份生物圈，或建立行星冗余。这很重要。这就像俄罗斯轮盘赌，九十九个弹膛是空的。每个世纪都是一次点击。咔嗒，咔嗒，咔嗒。最终……
+
+---
+
+> **English:** Making life multiplanetary is one of the most important things we could accomplish. This will help preserve the light of consciousness.
+>
+> **中文：** 让生命成为多行星是我们能完成的最重要的事情之一。这将有助于保护意识之光。
+
+---
+
+> **English:** The probability of consciousness existing for a long time becomes much greater if we're on two independent planets. If something catastrophic happened to Earth, life would still exist on another planet.
+>
+> **中文：** 如果我们在两个独立的行星上，意识长期存在的概率变得大得多。如果地球发生灾难性事件，生命仍将在另一个行星上存在。
+
+---
+
+> **English:** Say there was a giant meteor impact, a supervolcano, a massive nuclear war, or some super virus. It might not destroy human civilization, but it could knock us back to a much lower technology level, and then we risk a decline to our extinction.
+>
+> **中文：** 假设有巨大的陨石撞击、超级火山、大规模核战争或某种超级病毒。它可能不会摧毁人类文明，但它可能将我们击退到更低的技术水平，然后我们面临衰退到灭绝的风险。
+
+---
+
+> **English:** There are certain things we simply cannot avoid on Earth. Is it within your power or mine to stop World War III? I don't think so.
+>
+> **中文：** 有些事情我们在地球上根本无法避免。阻止第三次世界大战在你的能力范围内还是我的？我不这么认为。
+
+---
+
+> **English:** We may get hit by a comet like the dinosaurs. If the dinosaurs had spaceships, they'd probably still be around. Even if we dodge all of that, the sun will continue to expand and eventually engulf Earth and destroy all life in the solar system.
+>
+> **中文：** 我们可能会被彗星撞击，就像恐龙一样。如果恐龙有宇宙飞船，它们可能仍然存在。即使我们躲过所有这些，太阳将继续膨胀并最终吞没地球并摧毁太阳系中的所有生命。
+
+---
+
+> **English:** There's a pretty substantial bifurcation in our future: We're either out there among the stars on many planets or confined to Earth until some eventual extinction.
+>
+> **中文：** 我们的未来有一个相当大的分叉：我们要么在多个行星上的群星之中，要么被限制在地球上直到某种最终的灭绝。
+
+---
+
+> **English:** This is the first moment in 4.5 billion years that it has been possible to extend life beyond Earth.
+>
+> **中文：** 这是 45 亿年来第一次有可能将生命延伸到地球之外。
+
+---
+
+### If You Love Life, Protect It
+### 如果你爱生命，保护它
+
+---
+
+> **English:** I've read a lot of history, including the darkest, worst parts of it. Despite all that, I still love humanity. This is why I care about us becoming a multiplanet species, a spacefaring civilization—because I love humanity. I wish to see it prosper and be happy.
+>
+> **中文：** 我读了很多历史，包括其中最黑暗、最糟糕的部分。尽管如此，我仍然爱人类。这就是为什么我关心我们成为多行星物种，一个太空航行文明——因为我爱人类。我希望看到它繁荣和幸福。
+
+---
+
+> **English:** I'm troubled by the question, "Why have we not seen any aliens?" It could be because intelligence, or even just life, is incredibly rare. Maybe we're the only life in this galaxy. We should do everything possible to ensure this tiny candle of consciousness does not go out.
+>
+> **中文：** 我被这个问题困扰，"为什么我们还没有看到任何外星人？"这可能是因为智能，或甚至只是生命，非常罕见。也许我们是这个星系中唯一的生命。我们应该尽一切可能确保这微弱的意识蜡烛不熄灭。
+
+---
+
+> **English:** Life on Earth hasn't been around very long, and it can easily disappear. Clearly, we need to extend life beyond Earth and become a multiplanet species.
+>
+> **中文：** 地球上的生命存在时间不长，它很容易消失。显然，我们需要将生命延伸到地球之外并成为多行星物种。
+
+---
+
+> **English:** If we make life multiplanetary, there may come a day when some plants and animals die out on Earth but are still alive on Mars.
+>
+> **中文：** 如果我们让生命成为多行星，可能会有那么一天，一些植物和动物在地球上灭绝但在火星上仍然活着。
+
+---
+
+> **English:** Q: Wouldn't it be better to use all these resources and try to resolve problems on Earth?
+>
+> **中文：** 问：使用所有这些资源并试图解决地球上的问题不是更好吗？
+
+---
+
+> **English:** About half my money is dedicated to help solve problems like climate change on Earth and half to help establish a self-sustaining city on Mars to ensure the continuation of life of all species.
+>
+> **中文：** 我大约一半的钱用于帮助解决地球上的问题，如气候变化，另一半用于帮助在火星上建立一个自给自足的城市，以确保所有物种生命的延续。
+
+---
+
+> **English:** The point is not to move from Earth to another planet and let Earth die. That's not what I'm saying at all.
+>
+> **中文：** 重点不是从地球搬到另一个行星并让地球死亡。那根本不是我在说的。
+
+---
+
+> **English:** To put this into perspective, the amount of resources I'm talking about for making life multiplanetary would be much less than 1 percent of all resources on Earth.
+>
+> **中文：** 为了正确看待这一点，我所说的用于让生命成为多行星的资源量将远小于地球上所有资源的 1%。
+
+---
+
+> **English:** Think of it as resource allocation. Do you think it's worth spending half a percent of Earth's resources to ensure we extend consciousness to Mars and other planets, so that no single event can be the end of our civilization?
+>
+> **中文：** 把它看作资源分配。你认为值得花费地球资源的半百分比来确保我们将意识扩展到火星和其他行星，以便没有任何单一事件可以成为我们文明的终结吗？
+
+---
+
+> **English:** Redundancy of life is the defensive reason to go to Mars. But also, going to Mars is the grandest adventure I could possibly imagine. I can't think of anything more exciting, more fun, and more inspiring for the future than to have a base on Mars. Great and terrible things will happen along the way, just as they happened in the creation of the United States. It will be difficult, and some people will probably die. But it will be incredibly inspiring.
+>
+> **中文：** 生命的冗余是去火星的防御性原因。而且，去火星是我能想象的最伟大的冒险。我想不出比在火星上建立基地更令人兴奋、更有趣、更鼓舞人心的未来事情。伟大和可怕的事情将一路上发生，就像它们在美国创建过程中发生的一样。这将是困难的，有些人可能会死。但这将令人难以置信地鼓舞人心。
+
+---
+
+> **English:** Ultimately, if you care about life on Earth, you should want that life to become multiplanetary and ultimately multistellar. Otherwise you're signing the death warrant for all life as we know it. It's inevitable.
+>
+> **中文：** 最终，如果你关心地球上的生命，你应该希望那个生命成为多行星并最终多恒星。否则你正在签署我们所知的所有生命的死亡令。这是不可避免的。
+
+---
+
+> **English:** Think of us being a multiplanet species as taking out insurance for life itself. Life insurance, for life.
+>
+> **中文：** 把我们成为多行星物种看作是为生命本身购买保险。生命的生命保险。
+
+---
+
+### The Gateway to Mars
+### 通往火星的门户
+
+---
+
+> **English:** What started off as basically a sandbar in the middle of nowhere is now Starbase, Texas. We named it "The Gateway to Mars," because this is where we're going to develop the technology necessary to take humanity, civilization, and life as we know it to another planet for the first time in the 4.5-billion-year history of Earth.
+>
+> **中文：** 最初基本上是一个偏僻地方的沙洲，现在是德克萨斯州的星舰基地。我们将其命名为"通往火星的门户"，因为这是我们将在地球 45 亿年历史上第一次开发将人类、文明和我们所知的生命带到另一个行星所需技术的地方。
+
+---
+
+> **English:** Q: Why Mars?
+>
+> **中文：** 问：为什么是火星？
+
+---
+
+> **English:** There are not a lot of options, frankly. Venus is a superheated, high-pressure acid bath. Venus is hell, almost literally. The moon is closer but it doesn't have an atmosphere, has only one-sixth of Earth's gravity, and is missing many key resources.
+>
+> **中文：** 坦率地说，没有太多选择。金星是一个过热的、高压的酸浴。金星是地狱，几乎是字面意思。月球更近，但它没有大气层，只有地球引力的六分之一，缺少许多关键资源。
+
+---
+
+> **English:** Plus, a Mars base is more likely to survive a conflict on Earth than a moon base.
+>
+> **中文：** 此外，火星基地比月球基地更有可能在地球冲突中幸存。
+
+---
+
+> **English:** We could establish a crude permanent base on the moon. That would be the next step up from Apollo. Let's not just go there for a few hours and head back; let's have an occupied science base on the moon. We could build epic telescopes on the moon. They would enable us to see what's going on out there. Maybe we would detect those aliens!
+>
+> **中文：** 我们可以在月球上建立一个简陋的永久基地。那将是阿波罗之后的下一步。让我们不只是去那里几个小时然后回来；让我们在月球上有一个有人居住的科学基地。我们可以在月球上建造史诗般的望远镜。它们将使我们能够看到外面发生了什么。也许我们会探测到那些外星人！
+
+---
+
+> **English:** When we're out there exploring the galaxy, we might find a whole bunch of dead one-planet civilizations. They just never made it to the next planet. Can you imagine doing archaeology on strange ghost-town planets?!
+>
+> **中文：** 当我们在外面探索银河系时，我们可能会发现一堆死去的单行星文明。它们只是从未到达下一个行星。你能想象在陌生的鬼城行星上做考古吗？！
+
+---
+
+> **English:** Progress is measured by the timeline to establish a self-sustaining civilization on Mars. That's how we gauge our progress at Starbase.
+>
+> **中文：** 进度是通过在火星上建立自给自足文明的时间表来衡量的。这就是我们在星舰基地衡量进度的方式。
+
+---
+
+> **English:** Occupy Mars, man.
+>
+> **中文：** 占领火星，伙计。
+
+---
+
+> **English:** Q: How can we actually get enough stuff to Mars to build a city?
+>
+> **中文：** 问：我们实际上如何获得足够的东西到火星来建造一座城市？
+
+---
+
+> **English:** We're now at the point where we can produce a Starship roughly every two or three weeks. Now, we don't always produce a ship every two or three weeks because we are still making design upgrades. But ultimately we're aiming for the ability to produce a thousand ships a year.
+>
+> **中文：** 我们现在处于大约每两到三周可以生产一艘星舰的地步。现在，我们并不总是每两到三周生产一艘船，因为我们仍在进行设计升级。但最终我们的目标是每年生产一千艘船的能力。
+
+---
+
+> **English:** Starbase will probably be making as many Starships for Mars as Boeing and Airbus make commercial airplanes each year. This is really an enormous scale of manufacturing, because each Starship is bigger than a 747 or an A380.
+>
+> **中文：** 星舰基地可能会为火星制造与波音和空客每年制造商用飞机一样多的星舰。这真的是一个巨大的制造规模，因为每艘星舰都比 747 或 A380 大。
+
+---
+
+> **English:** Tesla and other car companies are still building far higher volumes of complex manufactured tonnage than SpaceX. That is a way of saying it's achievable. These numbers are insanely high by traditional space standards but they are achievable, because they have been achieved in other industries.
+>
+> **中文：** 特斯拉和其他汽车公司仍在建造比 SpaceX 高得多的复杂制造吨位。这是一种说它是可实现的方式。这些数字按传统太空标准高得疯狂，但它们是可实现的，因为它们在其他行业已经实现。
+
+---
+
+> **English:** Starship is the key to preserving the light of consciousness. That's what it's all about. It may end up being the most important thing that we ever do.
+>
+> **中文：** 星舰是保护意识之光的关键。这就是它的全部意义。它最终可能是我们做过的最重要的事情。
+
+---
+
+> **English:** We're hoping to increase the cadence of flights to Mars dramatically with every launch window. Roughly every two years we will dramatically increase the number of ships that go to Mars. Ultimately we will try to get to one thousand or two thousand ships per Mars rendezvous.
+>
+> **中文：** 我们希望每个发射窗口都大幅增加飞往火星的飞行频率。大约每两年我们将大幅增加前往火星的船只数量。最终我们将尝试达到每次火星会合一千或两千艘船。
+
+---
+
+> **English:** We'll need to do a lot of orbital refueling. Orbiting rocket tanker ships will replenish the propellant of the ships that will actually go to Mars. We're aiming to demonstrate ship-to-ship propellant transfer. It's hard to make this not look a bit naughty because it's two ships connecting and doing a fluid transfer.
+>
+> **中文：** 我们需要做很多轨道加油。轨道火箭加油船将补充实际前往火星的船只的推进剂。我们的目标是演示船对船推进剂转移。很难让它看起来不有点调皮，因为它是两艘船连接并进行流体转移。
+
+---
+
+> **English:** We would create a propellant depot ship that would look like a huge hot dog. Shortly before going to Mars, Starships would take off with a couple hundred tons of payload from Earth. They would reach orbit with almost no propellant left, then get refilled by the tanker for the journey to Mars.
+>
+> **中文：** 我们将创建一个看起来像巨大热狗的推进剂仓库船。在前往火星前不久，星舰将带着几百吨的有效载荷从地球起飞。它们将几乎不带推进剂到达轨道，然后由加油船补充前往火星的旅程。
+
+---
+
+> **English:** We need roughly ten thousand missions to get to a million tons transferred to Mars. We think we can do this by 2044. My guess is that it will require about a million tons to build a self-sufficient city, but it might be ten million tons. I hope it's not one hundred million tons. That'd be a lot.
+>
+> **中文：** 我们需要大约一万次任务才能将一百万吨转移到火星。我们认为我们可以在 2044 年之前做到这一点。我的猜测是，建造一个自给自足的城市将需要大约一百万吨，但可能是一千万吨。我希望不是一亿吨。那会很多。
+
+---
+
+> **English:** Starship in its final form will probably do well over two hundred tons to orbit each flight, with full reusability and the ability to fly multiple times a day. We plan to launch about five uncrewed Starships to Mars in 2026. If those all land safely, then crewed missions are possible in 2028. If we encounter challenges, the crewed missions will be postponed two more years.
+>
+> **中文：** 星舰在其最终形式下，每次飞行可能会将超过两百吨送入轨道，具有完全可重复使用性和每天飞行多次的能力。我们计划在 2026 年向火星发射大约五艘无人星舰。如果这些都安全着陆，那么载人任务可能在 2028 年。如果我们遇到挑战，载人任务将再推迟两年。
+
+---
+
+> **English:** It is only possible to travel from Earth to Mars every two years when the planets are aligned. If Mars is on the other side of the sun, you can't get there. Can't go through the sun. This increases the difficulty but also serves to immunize Mars from many catastrophic events on Earth.
+>
+> **中文：** 只有当行星对齐时，每两年才能从地球旅行到火星。如果火星在太阳的另一边，你无法到达那里。不能穿过太阳。这增加了难度，但也起到使火星对地球上的许多灾难性事件免疫的作用。
+
+---
+
+> **English:** SpaceX will increase the number of spaceships traveling to Mars exponentially with every opportunity. We want to enable anyone who wants to be a space traveler and go to Mars. That means you, your family, or friends—anyone who dreams of great adventure.
+>
+> **中文：** SpaceX 将每次机会都指数级增加前往火星的宇宙飞船数量。我们想让任何想成为太空旅行者并去火星的人都能做到。这意味着你、你的家人或朋友——任何梦想伟大冒险的人。
+
+---
+
+> **English:** We want to get to the point where we're sending over a million tons at every Mars transfer window. Then we're a serious civilization. A megaton per transfer window. We can't fly there continuously, so we'd have a gathering of a thousand ships or more.
+>
+> **中文：** 我们想达到在每个火星转移窗口发送超过一百万吨的地步。那我们就是一个严肃的文明。每个转移窗口一百万吨。我们不能连续飞往那里，所以我们将聚集一千艘或更多船只。
+
+---
+
+> **English:** Imagine an armada of Starships waiting in orbit for the planets to align and then this gigantic Starfleet taking off for Mars. It will be a glorious sight to see! Can you imagine?
+>
+> **中文：** 想象一支星舰舰队在轨道上等待行星对齐，然后这支巨大的星际舰队起飞前往火星。那将是一个辉煌的景象！你能想象吗？
+
+---
+
+> **English:** This is an extremely difficult engineering problem. But no new physics is required.
+>
+> **中文：** 这是一个极其困难的工程问题。但不需要新的物理学。
+
+---
+
+> **English:** Q: What's the math on the journey to Mars?
+>
+> **中文：** 问：前往火星的数学是什么？
+
+---
+
+> **English:** The fundamental optimization is minimizing cost per ton to orbit, and ultimately cost per ton to the surface of Mars. This may seem like a purely mercantile objective, but it is actually the thing that needs to be optimized. There is a certain cost per ton to the surface of Mars where we can afford to establish a self-sustaining city. If we don't get the cost down, we can't afford to do it.
+>
+> **中文：** 基本优化是最小化每吨进入轨道的成本，最终是每吨到火星表面的成本。这看起来可能是一个纯粹的商业目标，但实际上这是需要优化的事情。到火星表面每吨有一定的成本，我们可以负担得起建立一个自给自足的城市。如果我们不降低成本，我们就负担不起这样做。
+
+---
+
+> **English:** It will cost maybe a quarter of a percent or half a percent of gross domestic product (GDP). That is palatable. A few people going to Mars will not cause some meaningful drop in the standard of living. For less than 1 percent of GDP, we can buy life insurance.
+>
+> **中文：** 它将花费也许国内生产总值（GDP）的四分之一百分比或半百分比。那是可以接受的。几个人去火星不会导致生活水平的有意义下降。用不到 GDP 的 1%，我们可以购买人寿保险。
+
+---
+
+> **English:** Starlink internet is what's being used to pay for humanity getting to Mars. I would like to thank everyone who has bought Starlink because you're helping secure the future of civilization. Thank you.
+>
+> **中文：** 星链互联网正被用来支付人类到达火星的费用。我想感谢所有购买了星链的人，因为你们正在帮助确保文明的未来。谢谢你们。
+
+---
+
+> **English:** Right now, you couldn't fly to Mars for a trillion dollars. No amount of money could get any human a ticket to Mars. First, we need to make this possible. But we don't just want to have flags and footprints on Mars for fifty years, like we did with the moon. To pass the great filter of existing only on one planet, we need to truly become a multiplanet species.
+>
+> **中文：** 现在，你花一万亿美元也无法飞往火星。没有任何金额的钱可以让任何人获得去火星的票。首先，我们需要使这成为可能。但我们不只是想像我们对月球那样在火星上有旗帜和脚印五十年。要通过只存在于一个行星上的大过滤器，我们需要真正成为多行星物种。
+
+---
+
+### Building the New World
+### 建设新世界
+
+---
+
+> **English:** Attendance is not mandatory here. It'll be dangerous and people might die.
+>
+> **中文：** 这里出席不是强制性的。这会很危险，人们可能会死。
+
+---
+
+> **English:** Few people will want to go to Mars in the beginning. But for some, the excitement of the frontier exceeds the concern of danger. I think it would be the adventure—the best adventure one could possibly go on—to go build a new civilization on a new planet.
+>
+> **中文：** 开始时很少有人想去火星。但对一些人来说，边疆的兴奋超过了危险的担忧。我认为那将是冒险——一个人可能进行的最好的冒险——去在一个新行星上建立一个新的文明。
+
+---
+
+> **English:** Some people seem to think this will be an escape hatch, some luxury resort for rich people. It is not. It's a high probability of death relative to Earth. Long journey. Not great food. A lot of hard work.
+>
+> **中文：** 有些人似乎认为这将是一个逃生舱口，一些富人的豪华度假村。不是这样的。相对于地球，死亡概率很高。长途旅行。食物不太好。很多艰苦的工作。
+
+---
+
+> **English:** You have to spend six months on a rocket with a hundred other people. It will be cramped. Like old ocean voyages, six months packed on a little ship in the middle of the ocean.
+>
+> **中文：** 你必须和另外一百个人在火箭上待六个月。它会很拥挤。像古老的海洋航行，六个月挤在海洋中央的一艘小船上。
+
+---
+
+> **English:** It's going to take a while to build a real civilization on Mars. The critical threshold is if the ships from Earth stop coming for any reason, does the Mars City die out or not? That's a high bar. You can't be missing anything.
+>
+> **中文：** 在火星上建立真正的文明需要一段时间。关键阈值是如果来自地球的船只因任何原因停止到来，火星城市会灭绝吗？那是一个高标准。你不能缺少任何东西。
+
+---
+
+> **English:** Imagine you're on a long sea voyage and the only thing you're missing is vitamin C. It's only a matter of time before it's curtains. You've got to have all the things necessary to sustain civilization on Mars, including about a million people.
+>
+> **中文：** 想象你在一次长途海上航行中，你唯一缺少的是维生素 C。这只是时间问题，然后就结束了。你必须有在火星上维持文明所需的所有东西，包括大约一百万人。
+
+---
+
+> **English:** I would like to die on Mars…just not on impact.
+>
+> **中文：** 我想死在火星上……只是不要在撞击时。
+
+---
+
+> **English:** Some Starships could come back to Earth. We want to offer an option of coming back, but most people who go to Mars will probably never come back to Earth.
+>
+> **中文：** 一些星舰可以返回地球。我们想提供一个返回的选项，但大多数去火星的人可能永远不会返回地球。
+
+---
+
+> **English:** Most of the ships we send will probably stay there, especially while colonizing Mars, because the ship itself will be so valuable there. Martians will take apart the ship and use it for raw materials.
+>
+> **中文：** 我们发送的大多数船只可能会留在那里，特别是在殖民火星期间，因为船本身在那里将非常有价值。火星人将拆解船只并将其用作原材料。
+
+---
+
+> **English:** Once we get to Mars, there will be a lot to do, and it'll take a while to build it all. We have to build out the industrial base, then the city. First, we build a giant solar panel farm to generate energy. Then a facility to make fuel, oxygen to grow plants for food, and everything necessary to support life.
+>
+> **中文：** 一旦我们到达火星，将有很多事情要做，需要一段时间来建造所有东西。我们必须建立工业基础，然后是城市。首先，我们建造一个巨大的太阳能电池板农场来产生能量。然后是一个制造燃料的设施，氧气来种植食物植物，以及支持生命所需的一切。
+
+---
+
+> **English:** Ultimately we'll need all these things: power generation, ice mining, mining in general, propellent production, long-duration life support, construction, and global communication.
+>
+> **中文：** 最终我们将需要所有这些东西：发电、冰开采、一般开采、推进剂生产、长期生命支持、建设和全球通信。
+
+---
+
+> **English:** A fuel plant will create the fuel for the return trips of many Starships. It's mostly going to be oxygen plants, because rockets run on 78 percent liquid oxygen, 22 percent fuel. Mars has a CO2 atmosphere and water ice, which is CO2 plus H2O, so plenty of raw material to make what rockets need: CH4 (methane) and O2 (oxygen). Rocket fuel is easy to create on Mars, and in many other parts of the solar system.
+>
+> **中文：** 燃料工厂将为许多星舰的返程创造燃料。它将主要是氧气工厂，因为火箭运行在 78% 液氧，22% 燃料。火星有二氧化碳大气和水冰，即二氧化碳加水，所以有足够的原材料制造火箭所需的东西：CH4（甲烷）和 O2（氧气）。火箭燃料在火星上很容易制造，在太阳系的许多其他地方也是如此。
+
+---
+
+> **English:** In the beginning, people would live in glass domes. Over time, we'd terraform Mars and make it like Earth.
+>
+> **中文：** 开始时，人们将住在玻璃圆顶中。随着时间的推移，我们将改造火星并使其像地球一样。
+
+---
+
+> **English:** Mars is cold, but if we warm it up we'll get liquid water. Mars would have an ocean roughly a mile deep on 40 percent of the planet once we warm it up. That's a lot of water. A lot of the ice you see on the poles is actually dry ice. It's frozen CO2.
+>
+> **中文：** 火星很冷，但如果我们温暖它，我们将得到液态水。一旦我们温暖它，火星将在 40% 的行星上拥有大约一英里深的海洋。那是很多水。你在两极看到的很多冰实际上是干冰。它是冻结的二氧化碳。
+
+---
+
+> **English:** Terraforming Mars mostly consists of warming it up. We could warm it up either with solar reflectors in orbit or a lot of thermonuclear explosions.
+>
+> **中文：** 改造火星主要包括温暖它。我们可以用轨道上的太阳反射器或很多热核爆炸来温暖它。
+
+---
+
+> **English:** It sounds crazy, but a series of thermonuclear explosions basically creates an artificial sun. If you're worried that it will generate dangerous radiation, have you stood in the sun? The sun is a giant thermonuclear reactor. Obviously we can stand in front of the sun and not die. We could launch a missile every ten seconds or so. It would be like gigantic thermonuclear fireworks.
+>
+> **中文：** 这听起来很疯狂，但一系列热核爆炸基本上创造了一个人造太阳。如果你担心它会产生危险辐射，你站在太阳下过吗？太阳是一个巨大的热核反应堆。显然我们可以站在太阳前面而不死。我们可以大约每十秒发射一枚导弹。那将像巨大的热核烟花。
+
+---
+
+> **English:** We'd create two little suns, pulsing above the north and south poles.
+>
+> **中文：** 我们将创造两个小太阳，在北极和南极上方脉动。
+
+---
+
+> **English:** That would warm the poles up enough that the frozen carbon dioxide (CO2) would gasify. The Martian atmosphere would get more dense, with water vapor and CO2 in the air. In Mars's case, more CO2 in the air is good, because it will create a positive cycle to make it warmer with more liquid water—like Earth's environment.
+>
+> **中文：** 那将温暖两极足够使冻结的二氧化碳（CO2）气化。火星大气将变得更稠密，空气中有水蒸气和二氧化碳。在火星的情况下，空气中更多的二氧化碳是好的，因为它将创造一个积极的循环，使其更温暖，有更多的液态水——像地球的环境。
+
+---
+
+> **English:** Even if you don't go to Mars, you can watch this all happen on TV. It'll be so cool.
+>
+> **中文：** 即使你不去火星，你也可以在电视上观看这一切发生。那将太酷了。
+
+---
+
+> **English:** What I'm describing may sound crazy, but it is a small fraction of what will ultimately be done, as long as we become a two-planet civilization. Look at the history of shipping technology in Europe. When all you had to do was cross the Mediterranean, the ships were pretty lame—they only had short-range vessels, which couldn't cross the Atlantic.
+>
+> **中文：** 我所描述的可能听起来很疯狂，但它只是最终将要做的事情的一小部分，只要我们成为一个两行星文明。看看欧洲航运技术的历史。当你所要做的只是穿越地中海时，船只相当糟糕——它们只有短程船只，无法穿越大西洋。
+
+---
+
+> **English:** Without the forcing function of long-range commerce, shipping technology didn't improve much. You could do mostly the same things with ships around the time of Julius Caesar and the time of Columbus. Fifteen hundred years later, ships could still only cross the Mediterranean. But as soon as there was a reason to cross the Atlantic, shipping technology improved dramatically. The American colonies were needed for that to happen.
+>
+> **中文：** 没有长途商业的强制功能，航运技术没有太大改进。你可以在朱利叶斯·凯撒时代和哥伦布时代用船做大致相同的事情。一千五百年后，船只仍然只能穿越地中海。但一旦有理由穿越大西洋，航运技术就大幅改善。为此需要美洲殖民地。
+
+---
+
+> **English:** Reusable rockets are the modern-day equivalent of the first ships that could cross oceans.
+>
+> **中文：** 可重复使用的火箭是现代相当于第一艘可以穿越海洋的船只。
+
+---
+
+> **English:** Until you have a breakthrough technology enabling travel, there's no way for entrepreneurial energy to do anything.
+>
+> **中文：** 直到你有一个突破性技术能够实现旅行，创业能量无法做任何事情。
+
+---
+
+> **English:** Once we build reusable rockets, suddenly the opportunity is immense. We're going to do our best to get you to Mars, and make sure there's an environment there where entrepreneurs can continue building and flourish.
+>
+> **中文：** 一旦我们建造可重复使用的火箭，机会突然变得巨大。我们将尽最大努力让你去火星，并确保那里有一个环境，创业者可以继续建设和繁荣。
+
+---
+
+> **English:** The same thing happened with the first cross-continental railroad in the United States, the Union Pacific Railroad. When they were building the Union Pacific Railroad, nobody could predict Silicon Valley, Hollywood, or California becoming the most populous state in the country. That would have sounded crazy. But then they discovered gold.
+>
+> **中文：** 同样的事情发生在美国第一条跨大陆铁路，联合太平洋铁路。当他们建造联合太平洋铁路时，没有人能预测硅谷、好莱坞或加利福尼亚成为该国人口最多的州。那听起来会很疯狂。但然后他们发现了黄金。
+
+---
+
+> **English:** It's incumbent on SpaceX and other organizations to figure out how to get to Mars. Otherwise, nothing else matters. Once we get there, there's a lot that can be done.
+>
+> **中文：** SpaceX 和其他组织有责任找出如何到达火星。否则，其他事情都不重要。一旦我们到达那里，有很多事情可以做。
+
+---
+
+> **English:** There will be a lot of super exciting things that are hard to predict. After the basic infrastructure is built on Mars, there will be an explosion of opportunity for entrepreneurs, because our new world will need everything from iron foundries to pizza joints. This includes everything you can imagine, like starting the first Italian restaurant on Mars. That would be cool, and somebody's gotta do it.
+>
+> **中文：** 将有很多超级令人兴奋的事情难以预测。在火星上建立基本基础设施后，创业者将有机会爆发，因为我们的新世界将需要从铸铁厂到披萨店的一切。这包括你能想象的一切，比如在火星上开第一家意大利餐厅。那会很酷，有人必须去做。
+
+---
+
+### Colonizing the Galaxy
+### 殖民银河系
+
+---
+
+> **English:** Earth is the cradle of humanity. We cannot stay in the cradle forever. It is time to go forth, be out there among the stars. Expand the scope and scale of human consciousness.
+>
+> **中文：** 地球是人类的摇篮。我们不能永远待在摇篮里。是时候出发了，在群星之中。扩展人类意识的范围和规模。
+
+---
+
+> **English:** The big picture isn't just to back up the hard drive of humanity, but to grow humanity into a true multiplanetary species. Let's establish a regular cargo route to Mars. With the economic driver of interplanetary commerce, there will be resources and incentives to massively improve space transport technology, and then things will go to a whole new level.
+>
+> **中文：** 大局不仅仅是备份人类的硬盘，而是将人类成长为一个真正的多行星物种。让我们建立一条定期的火星货运路线。有了行星间商业的经济驱动，将有资源和激励来大幅改善太空运输技术，然后事情将进入一个全新的水平。
+
+---
+
+> **English:** Starship is not suitable for going to another star system, but it is a general solution for transport anywhere inside the solar system. Once we have a propellant depot on Mars, we can travel to the asteroid belt, the moons of Jupiter and Saturn, and ultimately anywhere in the solar system. This is huge.
+>
+> **中文：** 星舰不适合前往另一个恒星系统，但它是太阳系内任何地方运输的通用解决方案。一旦我们在火星上有一个推进剂仓库，我们可以前往小行星带、木星和土星的卫星，最终太阳系内的任何地方。这是巨大的。
+
+---
+
+> **English:** When space travel becomes as common as air travel, the future of civilization will be assured.
+>
+> **中文：** 当太空旅行变得像航空旅行一样普遍时，文明的未来将得到保证。
+
+---
+
+> **English:** One way to look at the progress of civilization is the percentage completion of each Kardashev level. Kardashev level one is harnessing all the energy of a planet. In my opinion, we've only harnessed maybe 1 or 2 percent of Earth's energy. So we've got a long way to go to complete Kardashev level one.
+>
+> **中文：** 看待文明进步的一种方式是每个卡尔达肖夫级别的完成百分比。卡尔达肖夫一级是利用一个行星的所有能量。在我看来，我们只利用了地球能源的 1% 或 2%。所以我们还有很长的路要走才能完成卡尔达肖夫一级。
+
+---
+
+> **English:** Kardashev level two is complete when we've harnessed all the energy of the sun. That would be—I don't know—a billion times more energy than Earth? Maybe closer to a trillion. Then, Kardashev level three would be all the energy of a galaxy. We're pretty far from that. So we're at the very, very early stage of the intelligence big bang.
+>
+> **中文：** 卡尔达肖夫二级在我们利用了太阳的所有能量时完成。那将是——我不知道——比地球多十亿倍的能量？也许更接近一万亿。然后，卡尔达肖夫三级将是一个星系的所有能量。我们离那还很远。所以我们处于智能大爆炸的非常非常早期阶段。
+
+---
+
+> **English:** If we can establish a Mars colony, we can almost certainly colonize the whole solar system. We'll go to the moons of Jupiter, at least some of the outer ones, probably Titan on Saturn, and the asteroids. Once we have an Earth-to-Mars economy as a forcing function, we'll cover the whole solar system.
+>
+> **中文：** 如果我们能建立火星殖民地，我们几乎肯定可以殖民整个太阳系。我们将前往木星的卫星，至少一些外层的，可能是土星的泰坦，以及小行星。一旦我们有一个地球到火星的经济作为强制功能，我们将覆盖整个太阳系。
+
+---
+
+> **English:** We have to make Mars work. If we're going to have any chance of sending stuff to other star systems, we need to be laser-focused on Mars. That's our next step.
+>
+> **中文：** 我们必须让火星工作。如果我们要有任何机会将东西发送到其他恒星系统，我们需要激光聚焦于火星。那是我们的下一步。
+
+---
+
+> **English:** On a galactic time scale, even with slower-than-light travel, we could colonize the whole galaxy. Even some of the neighboring galaxies. If we get a million years, even with no new physics, could we colonize the galaxy? Absolutely. The entire galaxy.
+>
+> **中文：** 在银河时间尺度上，即使以低于光速的旅行，我们也可以殖民整个银河系。甚至一些邻近的星系。如果我们有一百万年，即使没有新的物理学，我们能殖民银河系吗？绝对可以。整个银河系。
+
+---
+
+> **English:** You are the magicians of the twenty-first century; don't let anything hold you back. Imagination is the limit. Go out there and create some magic.
+>
+> **中文：** 你们是二十一世纪的魔术师；不要让任何事情阻碍你。想象力是极限。走出去，创造一些魔法。
+
+---
+
+## BONUS: THE 69 CORE MUSK METHODS
+## 附录：69 个核心马斯克方法
+
+---
+
+> **English:** These were selected as some of the fundamental ideas that make Elon and his companies successful. They have been edited or paraphrased into short, memorable maxims.
+>
+> **中文：** 这些被选为使埃隆和他的公司成功的一些基本思想。它们已被编辑或改写成简短、令人难忘的金科玉律。
+
+---
+
+1. **English:** You are capable of more than you think.
+   **中文：** 你比你想象的更有能力。
+
+2. **English:** It's possible for ordinary people to choose to be extraordinary.
+   **中文：** 普通人可以选择变得非凡。
+
+3. **English:** You can teach yourself anything. Read widely; talk to experts.
+   **中文：** 你可以自学任何东西。广泛阅读；与专家交谈。
+
+4. **English:** Assume you're wrong. Aspire to be less wrong.
+   **中文：** 假设你是错的。致力于少犯错。
+
+5. **English:** Internalize responsibility.
+   **中文：** 内化责任。
+
+6. **English:** If we don't make stuff, there is no stuff.
+   **中文：** 如果我们不制造东西，就没有东西。
+
+7. **English:** Creating products and services creates wealth.
+   **中文：** 创造产品和服务创造财富。
+
+8. **English:** A useful life is worth having lived.
+   **中文：** 有用的一生值得活过。
+
+9. **English:** Don't aspire to glory; aspire to work.
+   **中文：** 不要渴望荣耀；渴望工作。
+
+10. **English:** Take actions that increase the odds of the future being good.
+    **中文：** 采取增加未来变好几率的行动。
+
+11. **English:** Every day, we either increase the rate of innovation or it slows down.
+    **中文：** 每天，我们要么增加创新率，要么它减慢。
+
+12. **English:** Work on what is just becoming possible.
+    **中文：** 致力于刚刚变得可能的事情。
+
+13. **English:** Don't wait for the world to want it. If it should obviously exist, go build it.
+    **中文：** 不要等世界想要它。如果它显然应该存在，就去建造它。
+
+14. **English:** Build what no one else is building.
+    **中文：** 建造别人没有建造的东西。
+
+15. **English:** As you move forward, allies will assemble around you.
+    **中文：** 当你前进时，盟友将聚集在你周围。
+
+16. **English:** Prototypes are proof.
+    **中文：** 原型是证明。
+
+17. **English:** Start somewhere, question assumptions, and adapt to reality.
+    **中文：** 从某个地方开始，质疑假设，并适应现实。
+
+18. **English:** Reason from fundamentals, not from what others are doing.
+    **中文：** 从基本原理推理，而不是从别人正在做的事情推理。
+
+19. **English:** "The magic-wand number." See the theoretically perfect and work toward it.
+    **中文：** "魔杖数字"。看到理论上完美的并朝它努力。
+
+20. **English:** "Know the idiot index." Understand the cost of components.
+    **中文：** "了解白痴指数"。了解组件的成本。
+
+21. **English:** The Algorithm: Question Requirements → Try to Delete the Part or Process → Simplify → Accelerate → Automate.
+    **中文：** 算法：质疑要求 → 尝试删除部件或过程 → 简化 → 加速 → 自动化。
+
+22. **English:** For critical items, have meetings every twenty-four hours to run The Algorithm and check progress from yesterday.
+    **中文：** 对于关键项目，每二十四小时开会运行算法并检查昨天的进度。
+
+23. **English:** Stay as close to the actual work as possible. Do not separate yourself from the pain of your decisions.
+    **中文：** 尽可能靠近实际工作。不要将自己与决策的痛苦分离。
+
+24. **English:** All requirements should be treated as recommendations.
+    **中文：** 所有要求都应被视为建议。
+
+25. **English:** The only fixed laws are the laws of physics.
+    **中文：** 唯一固定的定律是物理定律。
+
+26. **English:** The best part is no part; the best process is no process.
+    **中文：** 最好的部件是没有部件；最好的过程是没有过程。
+
+27. **English:** Simplicity creates both reliability and low cost.
+    **中文：** 简单创造可靠性和低成本。
+
+28. **English:** Find the design necessity of every part and every process.
+    **中文：** 找出每个部件和每个过程的设计必要性。
+
+29. **English:** Overdelete and add back the absolutely necessary.
+    **中文：** 过度删除并加回绝对必要的。
+
+30. **English:** Push for radical breakthroughs.
+    **中文：** 推动激进突破。
+
+31. **English:** Be proactive. You will never win unless you take charge of setting the strategy.
+    **中文：** 积极主动。除非你负责制定战略，否则你永远不会赢。
+
+32. **English:** A maniacal sense of urgency is our operating principle.
+    **中文：** 疯狂的紧迫感是我们的运营原则。
+
+33. **English:** A factory moving at twice the speed of another factory is basically equivalent to two factories.
+    **中文：** 以两倍于另一个工厂的速度移动的工厂基本上相当于两个工厂。
+
+34. **English:** Attack the bottleneck. If you have 9,999 things that are working and one that isn't, that one sets the overall production rate.
+    **中文：** 攻击瓶颈。如果你有 9,999 件事在工作，有一件不在工作，那一件设定整体生产率。
+
+35. **English:** You'll move as fast as your least-lucky or least-competent supplier.
+    **中文：** 你将移动得和最不走运或最无能的供应商一样快。
+
+36. **English:** Do things in parallel.
+    **中文：** 并行做事。
+
+37. **English:** Give teams one key metric to focus on. Video games without a score are boring.
+    **中文：** 给团队一个关键指标来关注。没有分数的电子游戏很无聊。
+
+38. **English:** Separating design, engineering, and manufacturing is a recipe for dysfunction.
+    **中文：** 分离设计、工程和制造是功能障碍的配方。
+
+39. **English:** Speed of innovation is what matters.
+    **中文：** 创新速度才是重要的。
+
+40. **English:** Beat competitors on speed, quality, and cost, not anticompetitive behavior.
+    **中文：** 在速度、质量和成本上击败竞争对手，而不是反竞争行为。
+
+41. **English:** Test the absurd. When something seems impossible, ask: "What would it take?"
+    **中文：** 测试荒谬的。当某事看起来不可能时，问："需要什么？"
+
+42. **English:** Money is not the constraint. Exceptional engineers are.
+    **中文：** 钱不是限制。卓越的工程师才是。
+
+43. **English:** Get everyone thinking like the chief engineer.
+    **中文：** 让每个人都像首席工程师一样思考。
+
+44. **English:** Get a clear, direct feedback loop with reality.
+    **中文：** 获得与现实的清晰、直接反馈循环。
+
+45. **English:** Always be smashing your ego. Ensure ability > ego.
+    **中文：** 永远粉碎你的自我。确保能力 > 自我。
+
+46. **English:** Ask, "Is this effort resulting in a better product or service?" If not, stop.
+    **中文：** 问，"这个努力是否导致更好的产品或服务？"如果不是，停止。
+
+47. **English:** Good taste is learnable. Train yourself to notice what makes something beautiful.
+    **中文：** 好品味是可学习的。训练自己注意什么使东西美丽。
+
+48. **English:** Physics doesn't care about hurt feelings. Make the rocket fly.
+    **中文：** 物理学不在乎受伤的感情。让火箭飞行。
+
+49. **English:** Empathy is not an asset.
+    **中文：** 同情不是资产。
+
+50. **English:** Use simple, clear, humble terms.
+    **中文：** 使用简单、清晰、谦逊的术语。
+
+51. **English:** Go directly to the source of information.
+    **中文：** 直接去信息来源。
+
+---
+
+**🎉《The Book of Elon》翻译项目已完成！**
+
+**总行数：约 6,000+ 行中英对照**
+
+**GitHub 仓库：https://github.com/bugcodes/book-of-elon-zh**
