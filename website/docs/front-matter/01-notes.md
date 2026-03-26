@@ -1,5 +1,5 @@
 ---
-title: NOTES ON THIS BOOK
+title: "NOTES ON THIS BOOK"
 outline: deep
 ---
 

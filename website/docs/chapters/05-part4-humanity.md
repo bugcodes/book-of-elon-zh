@@ -1,5 +1,5 @@
 ---
-title: PART IV: ON BEHALF OF HUMANITY
+title: "PART IV: ON BEHALF OF HUMANITY"
 ---
 
 # 第四部分：为了人类

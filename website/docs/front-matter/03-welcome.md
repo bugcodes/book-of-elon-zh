@@ -1,5 +1,5 @@
 ---
-title: ERIC'S WELCOME TO THIS BOOK
+title: "ERIC'S WELCOME TO THIS BOOK"
 outline: deep
 ---
 

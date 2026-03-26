@@ -1,5 +1,5 @@
 ---
-title: PART III: BUILDING COMPANIES
+title: "PART III: BUILDING COMPANIES"
 ---
 
 # 第三部分：创建公司

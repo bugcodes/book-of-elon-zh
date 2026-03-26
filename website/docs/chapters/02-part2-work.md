@@ -1,5 +1,5 @@
 ---
-title: PART II: ULTRA HARDCORE WORK
+title: "PART II: ULTRA HARDCORE WORK"
 ---
 
 # 第二部分：极限硬核工作

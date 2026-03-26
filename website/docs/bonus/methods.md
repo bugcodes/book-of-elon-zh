@@ -1,5 +1,5 @@
 ---
-title: BONUS: THE 69 CORE MUSK METHODS (continued)
+title: "BONUS: THE 69 CORE MUSK METHODS (continued)"
 outline: deep
 ---
 

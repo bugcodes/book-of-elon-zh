@@ -1,5 +1,5 @@
 ---
-title: PART I: PURSUE PURPOSE
+title: "PART I: PURSUE PURPOSE"
 ---
 
 # 第一部分：追求目标
