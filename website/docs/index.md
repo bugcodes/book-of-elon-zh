@@ -54,3 +54,19 @@ features:
 > **"如果你想要未来是好的，你必须让它如此。"**
 >
 > — Elon Musk
+
+---
+
+## 📱 关注公众号
+
+**AI Tools Hub** - 发现最新 AI 工具，提升工作效率
+
+![AI Tools Hub](https://tsz-bj.oss-cn-beijing.aliyuncs.com/moltbook/qrcode.jpg)
+
+**获取：**
+- 🚀 最新 AI 工具推荐
+- 💡 实用技巧与教程
+- 📚 优质资源分享
+- 🎁 独家优惠福利
+
+---
