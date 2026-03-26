@@ -59,18 +59,18 @@ features:
 
 ## 📱 关注公众号
 
-**AI Tools Hub** - 发现最新 AI 工具，提升工作效率
+**2026 加油啊** - 记录成长，分享干货
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/images/qrcode.jpg" alt="AI Tools Hub 公众号二维码" style="max-width: 300px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="/images/qrcode.jpg" alt="2026 加油啊 公众号二维码" style="max-width: 300px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 **获取：**
-- 🚀 最新 AI 工具推荐
-- 💡 实用技巧与教程
-- 📚 优质资源分享
-- 🎁 独家优惠福利
+- 📝 个人成长记录
+- 💡 技术干货分享
+- 📚 读书笔记与心得
+- 🎯 实用工具推荐
 
-**立即扫码关注，开启 AI 效率之旅！**
+**立即扫码关注，一起加油成长！**
 
 ---
