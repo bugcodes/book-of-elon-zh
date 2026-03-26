@@ -61,23 +61,15 @@ features:
 
 **AI Tools Hub** - 发现最新 AI 工具，提升工作效率
 
-<div style="text-align: center; margin: 30px 0; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px;">
-  <div style="background: white; padding: 20px; border-radius: 10px; display: inline-block;">
-    <p style="font-size: 18px; font-weight: bold; color: #333; margin-bottom: 15px;">🎯 扫码关注 AI Tools Hub</p>
-    <p style="color: #666; margin: 10px 0;">🚀 最新 AI 工具推荐</p>
-    <p style="color: #666; margin: 10px 0;">💡 实用技巧与教程</p>
-    <p style="color: #666; margin: 10px 0;">📚 优质资源分享</p>
-    <p style="color: #666; margin: 10px 0;">🎁 独家优惠福利</p>
+<div style="text-align: center; margin: 30px 0; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white;">
+  <h3 style="margin: 0 0 20px 0; font-size: 24px;">🎯 AI Tools Hub</h3>
+  <p style="margin: 10px 0; font-size: 16px;">🚀 最新 AI 工具推荐</p>
+  <p style="margin: 10px 0; font-size: 16px;">💡 实用技巧与教程</p>
+  <p style="margin: 10px 0; font-size: 16px;">📚 优质资源分享</p>
+  <p style="margin: 10px 0; font-size: 16px;">🎁 独家优惠福利</p>
+  <div style="margin-top: 25px; padding: 15px; background: rgba(255,255,255,0.2); border-radius: 10px;">
+    <p style="margin: 0; font-size: 18px; font-weight: bold;">📣 微信搜索"AI Tools Hub"关注公众号</p>
   </div>
-</div>
-
-<p style="text-align: center; font-size: 16px; font-weight: bold; color: #667eea;">
-  📣 请添加公众号二维码图片到仓库，或替换下方的图片链接
-</p>
-
-<!-- 替换这里的图片链接为你的公众号二维码 -->
-<div style="text-align: center; margin: 20px 0;">
-  <img src="https://via.placeholder.com/300x300.png?text=AI+Tools+Hub" alt="AI Tools Hub 公众号二维码" style="max-width: 300px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 **立即扫码关注，开启 AI 效率之旅！**
