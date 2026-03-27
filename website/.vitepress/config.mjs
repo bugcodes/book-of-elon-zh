@@ -13,6 +13,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '开始阅读', link: '/front-matter/01-notes' },
+      { text: '📥 下载 PDF', link: '/downloads' },
       { text: 'GitHub', link: 'https://github.com/bugcodes/book-of-elon-zh' }
     ],
     sidebar: [
