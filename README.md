@@ -6,6 +6,13 @@ Elon Musk 最有用的想法，用他自己的话。
 
 **https://bugcodes.github.io/book-of-elon-zh/**
 
+## 📥 PDF 下载
+
+| 版本 | 链接 | 大小 | 页数 |
+|------|------|------|------|
+| 🇨🇳 中文版 | [the-book-of-elon-zh.pdf](pdf/the-book-of-elon-zh.pdf) | 2.0MB | 126 页 |
+| 🇺🇸 英文原版 | [The-Book-of-Elon-English.pdf](pdf/The-Book-of-Elon-English.pdf) | 1.7MB | 65 页 |
+
 ## 📊 项目统计
 
 | 项目 | 数据 |

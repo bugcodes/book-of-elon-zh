@@ -1,0 +1,17 @@
+---
+title: "The Book of Elon 中文版"
+subtitle: "埃隆之书：目标与成功指南"
+author: "Eric Jorgenson (原著) | 赵小帅 (翻译)"
+date: "2026-03-26"
+lang: "zh-CN"
+toc: true
+toc-depth: 3
+numbersections: true
+geometry: margin=2.5cm
+fontsize: 12pt
+linestretch: 1.5
+header-includes:
+  - \usepackage{ctex}
+  - \usepackage{hyperref}
+  - \hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+...
