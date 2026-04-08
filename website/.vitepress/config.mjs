@@ -69,7 +69,7 @@ export default defineConfig({
     ],
     footer: {
       message: '基于 Eric Jorgenson 原著翻译 | CC BY-NC-SA 4.0',
-      copyright: 'Copyright © 2026 赵小帅 | 关注公众号：2026 加油啊 | 🦞 <a href="https://tsuzbj.gumroad.com/l/moltbook" target="_blank">moltbook-operator</a> | 💰 <a href="https://shop.xuedingtoken.com/?dist=H7WQP342" target="_blank">雪定 Token 合伙人</a>'
+      copyright: 'Copyright © 2026 赵小帅 | 关注公众号：2026 加油啊 | 🦞 <a href="https://tsuzbj.gumroad.com/l/moltbook" target="_blank">moltbook-operator</a> | 💰 <a href="https://shop.xuedingtoken.com/?dist=H7WQP342" target="_blank">雪定 Token 合伙人</a> | 🤖 <a href="https://www.aicopilot.cn/" target="_blank">AI 工具导航</a>'
     }
   },
   markdown: {

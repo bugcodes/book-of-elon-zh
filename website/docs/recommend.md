@@ -45,6 +45,24 @@ title: 🔥 推荐工具
 
 ---
 
+## 🤖 AI 工具导航站
+
+**一站式 AI 工具发现平台**
+
+汇聚全网最优质的 AI 工具，帮你快速找到适合的生产力工具。
+
+- **特点：** 分类清晰、更新及时、真实评测
+- **适合人群：** AI 工具探索者、效率追求者
+- **优势：** 节省搜索时间、避免踩坑、发现小众精品
+
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://www.aicopilot.cn/" target="_blank" style="background: linear-gradient(135deg, #00c6fb 0%, #005bea 100%); color: white; padding: 15px 40px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 18px; display: inline-block; box-shadow: 0 4px 15px rgba(0, 91, 234, 0.4);">
+    🌐 立即访问 AI 工具导航
+  </a>
+</div>
+
+---
+
 ## 📚 其他推荐
 
 ### AI 工具
@@ -61,4 +79,4 @@ title: 🔥 推荐工具
 
 ---
 
-**更新日期：** 2026-04-07
+**更新日期：** 2026-04-08
